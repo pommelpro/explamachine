@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Atlasify</title>
+		<!-- Bootstrap -->
+		<link href="css/bootstrap.min.css" rel="stylesheet">
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+		<script src="js/bootstrap.min.js"></script>
+		<script src="frontend.js"></script>
+		<style>
+			body {
+				margin-left: 20px;
+			}
+		</style>
+	</head>
+	<body>
+		<h1>Atlasify Relator</h1>
+
+
+		<script language="javascript" type="text/javascript">
+		</script>
+
+
+
+
+
+		<form action="sqlquery.php" method="post">
+			<p>
+				<b>Query 1:<br/></b>
+				<input type="text" id="query1" name="query1"/>
+			</p>
+			<p>		
+				<b>Query 2:<br/></b>			
+				<input type="text" id="query2" name="query2"/>
+			</p>
+			<h4> Prints out 5 random article related to both queries</h4>
+			<input type="submit" name="btn_submit" value="Plain Text"/>
+			<br/>
+			<h4> Returns another JSON Object</h4>
+			<input type="submit" name="btn_submit" value="Json Object"/>
+		</form>
+	</body>
+</html>
+
