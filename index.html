@@ -7,40 +7,29 @@
 		<title>Atlasify</title>
 		<!-- Bootstrap -->
 		<link href="css/bootstrap.min.css" rel="stylesheet">
+		<link href="css/main.css" rel="stylesheet">
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 		<script src="js/bootstrap.min.js"></script>
 		<script src="frontend.js"></script>
-		<style>
-			body {
-				margin-left: 20px;
-			}
-		</style>
 	</head>
 	<body>
 		<h1>Atlasify Relator</h1>
-
-
-		<script language="javascript" type="text/javascript">
-		</script>
-
-
-
-
-
 		<form action="sqlquery.php" method="post">
 			<p>
 				<b>Query 1:<br/></b>
 				<input type="text" id="query1" name="query1"/>
-			</p>
+			</p>		
 			<p>		
 				<b>Query 2:<br/></b>			
 				<input type="text" id="query2" name="query2"/>
 			</p>
-			<h4> Prints out 5 random article related to both queries</h4>
-			<input type="submit" name="btn_submit" value="Plain Text"/>
+			<h4>Prints out 5 random article related to both queries</h4>
+			<input class="button" type="submit" name="btn_submit" value="Plain Text"/>
 			<br/>
-			<h4> Returns another JSON Object</h4>
-			<input type="submit" name="btn_submit" value="Json Object"/>
+			<h4>Generate Explantion</h4>
+			<input class="button" type="submit" name="btn_submit" value="Explain"/>
+			<h4>Test</h4>
+			<input class="button" type="submit" name="btn_submit" value="Test"/>
 		</form>
 	</body>
 </html>

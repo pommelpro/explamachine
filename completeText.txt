@@ -1,0 +1,1122 @@
+Microsoft Corporation is an American  multinational   software  corporation headquartered in  Redmond ,  Washington  that develops, manufactures, licenses, and supports a wide range of products and services related to  computing 
+The company was founded by  Bill Gates  and  Paul Allen  on April 4, 1975
+Microsoft is the  world's largest software maker  measured by revenues
+ It is also one of the  world's most valuable companies 
+Microsoft was established to develop and sell  BASIC   interpreters  for the  Altair 8800 
+It rose to dominate the  personal computer   operating system  market with  MS-DOS  in the mid-1980s, followed by the  Microsoft Windows  line of operating systems
+The company's 1986  initial public offering , and subsequent rise in its share price, created an estimated three billionaires and 12,000 millionaires from Microsoft employees
+Since the 1990s, it has increasingly diversified from the operating system market and has  made a number of corporate acquisitions 
+In May 2011, Microsoft acquired  Skype Technologies  for $8.5 billion in its largest acquisition to date
+As of 2013, Microsoft is market dominant in both the PC operating system and  office suite  markets (the latter with  Microsoft Office )
+The company also produces a wide range of other software for desktops and servers, and is active in areas including  internet search  (with  Bing ), the  video game industry  (with the  Xbox  and  Xbox 360  consoles, and the upcoming  Xbox One  console), the digital services market (through  MSN ), and mobile phones (via the  Windows Phone  OS)
+In June 2012, Microsoft announced that it would be entering the PC vendor market for the first time, with the launch of the  Microsoft Surface   tablet computer .On August 20, 2013, Microsoft announced that its CEO,  Steve Ballmer , will retire from the company after a successor is chosen
+History197283: Founding and company beginnings Paul Allen  and  Bill Gates , childhood friends with a passion in  computer programming , were seeking to make a successful business utilizing their shared skills
+In 1972 they founded their first company named  Traf-O-Data , which offered a rudimentary computer that tracked and analyzed automobile traffic data
+Allen went on to pursue a degree in computer science at the University of Washington, later dropping out of school to work at Honeywell
+Gates began studies at Harvard
+  The January 1975 issue of  Popular Electronics  featured  Micro Instrumentation and Telemetry Systems 's (MITS)  Altair 8800   microcomputer 
+Allen noticed that they could program a  BASIC   interpreter  for the device; after a call from Gates claiming to have a working interpreter, MITS requested a demonstration
+Since they didn't actually have one, Allen worked on a  simulator  for the Altair while Gates developed the interpreter
+Although they developed the interpreter on a simulator and not the actual device, the interpreter worked flawlessly when they demonstrated the interpreter to MITS in  Albuquerque , New Mexico in March 1975; MITS agreed to distribute it, marketing it as  Altair BASIC 
+Allen came up with the original name of "Micro-Soft," the combination of the words microcomputer and software, as recounted in a 1995 Fortune magazine article
+In August 1977 the company formed an agreement with ASCII Magazine in Japan, resulting in its first international office, " ASCII Microsoft "
+ The company moved to a new home in  Bellevue, Washington  in January 1979
+Microsoft entered the OS business in 1980 with its own version of  Unix , called  Xenix 
+ However, it was  MS-DOS  that solidified the company's dominance
+After negotiations with  Digital Research  failed,  IBM  awarded a contract to Microsoft in November 1980 to provide a version of the  CP/M  OS, which was set to be used in the upcoming  IBM Personal Computer  (IBM PC)
+ For this deal, Microsoft purchased a CP/M clone called  86-DOS  from  Seattle Computer Products , branding it as MS-DOS, which IBM rebranded to  PC DOS 
+Following the release of the IBM PC in August 1981, Microsoft retained ownership of MS-DOS
+Since IBM  copyright ed the IBM PC  BIOS , other companies had to  reverse engineer  it in order for non-IBM hardware to run as  IBM PC compatible s, but no such restriction applied to the operating systems
+Due to various factors, such as MS-DOS's available software selection, Microsoft eventually became the leading PC operating systems vendor
+The company expanded into new markets with the release of the Microsoft Mouse in 1983, as well as a publishing division named  Microsoft Press 
+ Paul Allen resigned from Microsoft in February after developing  Hodgkin's disease 
+198494: Windows and OfficeWhile jointly developing a new OS with IBM in 1984,  OS/2 , Microsoft released  Microsoft Windows , a graphical extension for MS-DOS, on November 20, 1985
+the ensuing rise in the stock would make an estimated four billionaires and 12,000 millionaires from Microsoft employees
+Due to the partnership with IBM, in 1990 the  Federal Trade Commission  set its eye on Microsoft for possible  collusion ; it marked the beginning of over a decade of legal clashes with the U.S
+Government
+Microsoft announced the release of its version of OS/2 to  original equipment manufacturer s (OEMs) on April 2, 1987;  meanwhile, the company was at work on a  32-bit  OS,  Microsoft Windows NT , using ideas from OS/2; it shipped on July 21, 1993, with a new  modular   kernel  and the  Win32   application programming interface  (API), making  porting  from  16-bit  (MS-DOS-based) Windows easier
+Once Microsoft informed IBM of NT, the OS/2 partnership deteriorated
+In 1990, Microsoft introduced its office suite,  Microsoft Office 
+The software bundled separate office productivity applications, such as  Microsoft Word  and  Microsoft Excel 
+  Novell , a Word competitor from 19841986, filed a lawsuit years later claiming that Microsoft left part of its APIs undocumented in order to gain a competitive advantage
+On July 27, 1994, the U.S
+Department of Justice, Antitrust Division filed a Competitive Impact Statement that said, in part:"Beginning in 1988, and continuing until July 15, 1994, Microsoft induced many OEMs to execute anti-competitive "per processor" licenses
+Under a per processor license, an OEM pays Microsoft a royalty for each computer it sells containing a particular microprocessor, whether the OEM sells the computer with a Microsoft operating system or a non-Microsoft operating system
+In effect, the royalty payment to Microsoft when no Microsoft product is being used acts as a penalty, or tax, on the OEM's use of a competing PC operating system
+Since 1988, Microsoft's use of per processor licenses has increased." 19952005: Internet and the 32-bit eraFollowing Bill Gates's internal "Internet Tidal Wave memo" on May 26, 1995, Microsoft began to redefine its offerings and expand its product line into  computer network ing and the  World Wide Web 
+ The company released  Windows 95  on August 24, 1995, featuring  pre-emptive multitasking , a completely new user interface with a novel  start button , and 32-bit compatibility; similar to NT, it provided the Win32 API
+ Windows 95 came bundled with the  online service   MSN , and for OEMs  Internet Explorer , a  web browser 
+Internet Explorer was not bundled with the retail Windows 95 boxes because the boxes were printed before the team finished the web browser, and instead was included in the Windows 95 Plus! pack
+ Branching out into new markets in 1996, Microsoft and  NBC Universal  created a new  24/7  cable news station,  MSNBC 
+Microsoft created  Windows CE 1.0 , a new OS designed for devices with low memory and other constraints, such as  personal digital assistant s
+In October 1997, the Justice Department filed a motion in the Federal  District Court , stating that Microsoft violated an agreement signed in 1994 and asked the court to stop the bundling of Internet Explorer with Windows
+Bill Gates handed over the CEO position on January 13, 2000, to  Steve Ballmer , an old college friend of Gates and employee of the company since 1980, creating a new position for himself as Chief  Software Architect 
+calling the company an "abusive monopoly"; it settled with the U.S
+Department of Justice in 2004
+In March 2004 the  European Union  brought  antitrust legal action against the company , citing it abused its dominance with the Windows OS, resulting in a judgment of 497million ($613million) and to produce new versions of Windows XP without  Windows Media Player , Windows XP Home Edition N and Windows XP Professional N.200610: Windows Vista, mobile, and Windows 7Released in January 2007, the next version of Windows,  Windows Vista , focused on features, security, and a redesigned user interface dubbed  Aero 
+  Microsoft Office 2007 , released at the same time, featured a " Ribbon " user interface which was a significant departure from its predecessors
+Relatively strong sales of both titles helped to produce a record profit in 2007
+ The European Union imposed another fine of 899million ($1.4billion) for Microsoft's lack of compliance with the March 2004 judgment on February 27, 2008, saying that the company charged rivals unreasonable prices for key information about its  workgroup  and  backoffice  servers
+Microsoft stated that it was in compliance and that "these fines are about the past issues that have been resolved".2007 also saw the creation of a multi-core unit at Microsoft, as they followed in the steps of server companies such as Sun and IBM
+Bill Gates retired from his role as Chief Software Architect on June 27, 2008, while retaining other positions related to the company in addition to being an advisor for the company on key projects
+  Azure Services Platform , the company's entry into the  cloud computing  market for Windows, launched on October 27, 2008
+ On February 12, 2009, Microsoft announced its intent to open a chain of Microsoft-branded retail stores, and on October 22, 2009, the first retail  Microsoft Store  opened in  Scottsdale , Arizona; the same day the first store opened,  Windows 7  was officially released to the public
+Windows 7's focus was on refining Vista with ease of use features and performance enhancements, rather than a large reworking of Windows
+  As the smartphone industry boomed beginning in 2007, Microsoft struggled to keep up with its rivals  Apple  and  Google  in providing a modern smartphone operating system
+As a result, in 2010, Microsoft revamped their aging flagship mobile operating system,  Windows Mobile , replacing it with the new  Windows Phone  OS; along with a new strategy in the smartphone industry that has Microsoft working more closely with smartphone manufacturers, such as  Nokia , and to provide a consistent user experience across all smartphones using Microsoft's Windows Phone OS
+It used a new user interface design language, codenamed "Metro", which prominently used simple shapes, typography and iconography, and the concept of minimalism.Microsoft is a founding member of the  Open Networking Foundation  started on March 23, 2011
+Other founding companies include  Google ,  HP Networking ,  Yahoo ,  Verizon ,  Deutsche Telekom  and 17 other companies
+The nonprofit organization is focused on providing support for a new  cloud computing  initiative called Software-Defined Networking
+ The initiative is meant to speed innovation through simple software changes in telecommunications networks, wireless networks, data centers and other networking areas
+2011present: Rebranding, Windows 8, and SurfaceFollowing the release of  Windows Phone , Microsoft underwent a gradual  rebranding  of its product range throughout 2011 and 2012the corporation's logos, products, services, and websites adopted the principles and concepts of the  Metro  design language
+Microsoft previewed  Windows 8 , an operating system designed to power both personal computers and  tablet computer s, in Taipei in June 2011
+ A developer preview was released on September 13, and was replaced by a consumer preview on February 29, 2012
+ On May 31, 2012, the preview version was released.On June 18, 2012, Microsoft announced the  Microsoft Surface , the first computer in the company's history to have its hardware made by Microsoft
+ On October 1, Microsoft announced its intention to launch a news operation, part of a new-look MSN, at the time of the Windows 8 launch that was later in the month
+ On October 26, 2012, Microsoft launched Windows 8 and the  Microsoft Surface 
+ Three days later,  Windows Phone 8  was launched
+ To cope with the potential for an increase in demand for products and services, Microsoft opened a number of "holiday stores" across the U.S
+to complement the increasing number of "bricks-and-mortar" Microsoft Stores that opened in 2012
+On March 29, 2013, Microsoft launched a Patent Tracker
+ The  Kinect  sensor device was upgraded for the 2013 release of the eighth-generation  Xbox One  and its capabilities were revealed in May 2013
+The new Kinect uses an ultra-wide 1080p camera, it can function in the dark due to an infrared sensor, it employs higher-end processing power and new software, it can distinguish between fine movements (such as a thumb movements), and the device can determine a user's heart rate by looking at his/her face
+ Microsoft filed a patent application in 2011 that suggests that the corporation may use the Kinect camera system to monitor the behavior of television viewers as part of a plan to make the viewing experience more active.On July 19, 2013, Microsoft stocks suffered its biggest one-day percentage sell-off since the year 2000 after its fourth-quarter report raised concerns among the investors on the poor showings of both Windows 8 and the Surface tablet; with more than 11 percentage points declining Microsoft suffered a loss of more than USD 32billion
+For the 2010  fiscal year , Microsoft had five product divisions: Windows Division, Server and Tools, Online Services Division, Microsoft Business Division, and Entertainment and Devices Division.On September 3, 2013, Microsoft agreed to buy  Nokia 's mobile unit for $7 billion
+ Also in 2013,  Amy Hood  became the first female CFO of Microsoft
+ The Alliance for Affordable Internet (A4AI) was launched in October 2013 and Microsoft is part of the coalition of public and private organisations that also includes  Facebook ,  Intel  and  Google 
+Led by  Sir Tim Berners-Lee , the A4AI seeks to make Internet access more affordable so that access is broadened in the developing world, where only 31% of people are online
+Google will help to decrease internet access prices so that they fall below the UN Broadband Commission's worldwide target of 5% of monthly income
+Windows Division, Server and Tools, Online Services DivisionThe company's Client division produces the flagship Windows OS line such as Windows 8; it also produces the  Windows Live  family of products and services
+Server and Tools produces the server versions of Windows, such as  Windows Server 2008 R2  as well as a set of development tools called  Microsoft Visual Studio ,  Microsoft Silverlight , a web application framework, and  System Center Configuration Manager , a collection of tools providing remote-control abilities, patch management, software distribution and a hardware/software inventory
+Other server products include:  Microsoft SQL Server , a  relational database  management system,  Microsoft Exchange Server , for certain business-oriented  e-mail  and scheduling features,  Small Business Server , for messaging and other small business-oriented features; and  Microsoft BizTalk Server , for  business process management .Microsoft provides  IT consulting  ("Microsoft Consulting Services") and produces a set of certification programs handled by the Server and Tools division designed to recognize individuals who have a minimal set of proficiencies in a specific role; this includes developers ( "Microsoft Certified Solution Developer" ), system/network analysts ( "Microsoft Certified Systems Engineer" ), trainers (" Microsoft Certified Trainers ") and administrators (" Microsoft Certified Systems Administrator " and  "Microsoft Certified Database Administrator" )
+ Microsoft Press , which publishes books, is also managed by the division
+The Online Services Business division handles the online service  MSN  and the search engine  Bing 
+As of December 2009, the company also possesses an 18% ownership of the  cable news  channel  MSNBC  without any editorial control; however, the division develops the channel's website,  msnbc.com , in a  joint venture  with the channel's co-owner,  NBC Universal .Business DivisionThe Microsoft Business Division produces  Microsoft Office  including  Microsoft Office 2010 , the company's line of office software
+The software product includes  Word  (a word processor),  Access  (a  relational database  program),  Excel  (a  spreadsheet  program),  Outlook  ( Groupware , frequently used with  Exchange Server ),  PowerPoint  (presentation software),  Publisher  ( desktop publishing software ) and  Sharepoint 
+A number of other products were added later with the release of Office 2003 including  Visio ,  Project ,  MapPoint ,  InfoPath  and  OneNote 
+The division also develops  enterprise resource planning  (ERP) software for companies under the  Microsoft Dynamics  brand
+These include:  Microsoft Dynamics AX ,  Microsoft Dynamics NAV ,  Microsoft Dynamics GP , and  Microsoft Dynamics SL 
+They are targeted at varying company types and countries, and limited to organizations with under 7,500 employees
+Also included under the Dynamics brand is the  customer relationship management  software  Microsoft Dynamics CRM , part of the  Azure Services Platform .Entertainment and Devices DivisionThe Entertainment and Devices Division produces the  Windows CE  OS for  embedded system s and  Windows Phone  for  smartphone s
+ Microsoft initially entered the mobile market through Windows CE for  handheld device s, eventually developing into the  Windows Mobile  OS and now, Windows Phone
+Windows CE is designed for devices where the OS may not directly be visible to the end user, in particular, appliances and cars
+The division also produces  computer games  that run on Windows PCs and other systems including titles such as  Age of Empires ,  Halo  and the  Microsoft Flight Simulator  series, and houses the  Macintosh Business Unit  which produces  Mac OS  software including  Microsoft Office 2011 for Mac 
+Microsoft's Entertainment and Devices Division designs, markets, and manufactures  consumer electronics  including the  Xbox 360  game console, the handheld  Zune  media player, and the television-based  Internet appliance   MSN TV 
+Microsoft also markets  personal computer hardware  including  mice ,  keyboards , and various  game controller s such as  joystick s and  gamepad s.ReorganizationIn line with PC mature business, in July 2013 Microsoft announced to reorganize the business into 4 new business divisions by function: Operating System, Apps, Cloud and Devices
+All previous divisions will be diluted into new divisions without any workforce cut
+CultureTechnical reference for developers and articles for various Microsoft magazines such as Microsoft Systems Journal (or MSJ) are available through the  Microsoft Developer Network  (MSDN)
+MSDN also offers subscriptions for companies and individuals, and the more expensive subscriptions usually offer access to pre-release beta versions of Microsoft software
+In April 2004 Microsoft launched a community site for developers and users, titled  Channel9 , that provides a  wiki  and an  Internet forum 
+Another community site that provides daily  videocast s and other services, On10.net, launched on March 3, 2006
+Free technical support is traditionally provided through online  Usenet  newsgroups, and  CompuServe  in the past, monitored by Microsoft employees; there can be several newsgroups for a single product
+Helpful people can be elected by peers or Microsoft employees for  Microsoft Most Valuable Professional  (MVP) status, which entitles them to a sort of special social status and possibilities for awards and other benefits
+Noted for its internal  lexicon , the expression  "eating our own dog food"  is used to describe the policy of using prerelease and beta versions of products inside Microsoft in an effort to test them in "real-world" situations
+This is usually shortened to just "dog food" and is used as noun, verb, and adjective
+Another bit of  jargon ,  FYIFV  or FYIV ("Fuck You, I'm [Fully] Vested"), is used by an employee to indicate they are  financially independent  and can avoid work anytime they wish
+ The company is also known for its hiring process, mimicked in other organizations and dubbed the " Microsoft interview ", which is notorious for off-the-wall questions such as "Why is a  manhole cover  round?".Microsoft is an outspoken opponent of the cap on  H1B visa s, which allow companies in the U.S
+to employ certain foreign workers
+Bill Gates claims the cap on H1B visas makes it difficult to hire employees for the company, stating "I'd certainly get rid of the H1B cap" in 2005
+Critics of H1B visas argue that relaxing the limits would result in increased unemployment for U.S
+citizens due to H1B workers working for lower salaries
+  The  Human Rights Campaign  Corporate Equality Index, a report of how progressive the organization deems company policies towards  LGBT  (lesbian, gay, bisexual and transsexual) employees, rated Microsoft as 87% from 2002 to 2004 and as 100% from 2005 to 2010 after they allowed gender expression
+CriticismCriticism of Microsoft has followed the company's existence because of various aspects of its products and business practices
+ Ease of use ,  stability , and  security  of the company's software are common targets for critics
+More recently,  Trojan horses  and other exploits have plagued numerous users due to faults in the security of Microsoft Windows and other programs
+Microsoft is also accused of locking vendors into their products, and not following and complying with existing standards in its software
+  Total cost of ownership  comparisons of  Linux  as well as  Mac OS X  to Windows are a continuous point of debate.The company has been in numerous  lawsuits  by several governments and other companies for unlawful monopolistic practices
+In 2004, the  European Union  found Microsoft guilty in a highly publicized  anti-trust  case
+Additionally, Microsoft's  EULA  for some of its programs is often criticized as being too restrictive as well as being against  open source  software.Microsoft has been criticized (along with  Yahoo ,  AOL ,  Google  and others) for its involvement in  censorship in the People's Republic of China 
+ Microsoft has also come under criticism for  outsourcing jobs  to China and  India 
+   There were reports of poor working conditions at a factory in southern  China  that makes some of Microsoft's products
+Corporate affairsThe company is run by a  board of directors  made up of mostly company outsiders, as is customary for publicly traded companies
+Members of the board of directors as of June 2010 are: Steve Ballmer,  Dina Dublon ,  Bill Gates ,  Raymond Gilmartin ,  Reed Hastings ,  Maria Klawe ,  David Marquardt ,  Charles Noski , and  Helmut Panke 
+Board members are elected every year at the annual shareholders' meeting using a majority vote system
+There are five committees within the board which oversee more specific matters
+These committees include the Audit Committee, which handles accounting issues with the company including auditing and reporting; the Compensation Committee, which approves compensation for the CEO and other employees of the company; the Finance Committee, which handles financial matters such as proposing mergers and acquisitions; the Governance and Nominating Committee, which handles various corporate matters including nomination of the board; and the Antitrust Compliance Committee, which attempts to prevent company practices from violating  antitrust  laws
+When Microsoft went public and launched its  initial public offering (IPO)  in 1986, the opening  stock  price was $21; after the  trading day , the price closed at $27.75
+As of July 2010, with the company's nine  stock split s, any IPO  shares  would be multiplied by 288; if one was to buy the IPO today given the splits and other factors, it would cost about 9cents
+The stock price peaked in 1999 at around $119 ($60.928 adjusting for splits)
+The company began to offer a  dividend  on January 16, 2003, starting at eight cents per share for the fiscal year followed by a dividend of sixteen cents per share the subsequent year, switching from yearly to quarterly dividends in 2005 with eight cents a share per quarter and a  special one-time payout  of three dollars per share for the second quarter of the fiscal year
+Though the company had subsequent increases in dividend payouts, the price of Microsoft's stock remained steady for years.One of Microsoft's business tactics, described by an executive as " embrace, extend and extinguish ," initially embraces a competing standard or product, then extends it to produce their own version which is then incompatible with the standard, which in time extinguishes competition that does not or cannot use Microsoft's new version
+Various companies and governments sue Microsoft over this set of tactics, resulting in billions of dollars in rulings against the company
+  Microsoft claims that the original strategy is not anti-competitive, but rather an exercise of its discretion to implement features it believes customers want
+Financial Standard and Poor's  and  Moody's  have both given a AAA rating to Microsoft, whose assets were valued at $41billion as compared to only $8.5billion in unsecured debt
+Consequently, in February 2011 Microsoft released a corporate bond amounting to $2.25billion with relatively low borrowing rates compared to  government bonds 
+For the first time in 20 years  Apple Inc
+ surpassed Microsoft in Q1 2011 quarterly profits and revenues due to a slowdown in PC sales and continuing huge losses in Microsoft's Online Services Division (which contains its search engine  Bing )
+Microsoft profits were $5.2 billion, while Apple Inc
+profits were $6 billion, on revenues of $14.5 billion and $24.7 billion respectively
+Microsoft's Online Services Division has been continuously loss-making since 2006 and in Q1 2011 it lost $726 million
+This follows a loss of $2.5 billion for the year 2010
+On July 20, 2012, Microsoft posted its first quarterly loss ever, despite earning record revenues for the quarter and fiscal year
+Microsoft reported a net loss of $492 million; the 2007 acquisition of advertising company  aQuantive  for $6.2 billion and problems associated with it have been cited as the cause
+EnvironmentMicrosoft is ranked on the 17th place in  Greenpeace 's Guide to Greener Electronics (16th Edition) that ranks 18 electronics manufacturers according to their policies on toxic chemicals, recycling and climate change.Microsoft's timeline for phasing out  BFRs  and phthalates in all products is 2012 but its commitment to phasing out PVC is not clear
+As yet (January 2011) it has no products that are completely free from PVC and BFRs
+Microsoft's main U.S
+campus received a silver certification from the  Leadership in Energy and Environmental Design  (LEED) program in 2008, and it installed over 2,000 solar panels on top of its buildings in its Silicon Valley campus, generating approximately 15 percent of the total energy needed by the facilities in April 2005.Microsoft makes use of alternative forms of transit
+It created one of the worlds largest private bus systems, the "Connector", to transport people from outside the company; for on-campus transportation, the "Shuttle Connect" uses a large fleet of hybrid cars to save fuel
+The company also subsidises regional  public transport  as an incentive
+  In February 2010 however, Microsoft took a stance against adding additional public transport and  high-occupancy vehicle  (HOV) lanes to a bridge connecting Redmond to Seattle; the company did not want to delay the construction any further
+Microsoft was ranked number 1 in the list of the World's Best Multinational Workplaces by the Great Place to Work Institute in 2011
+MarketingIn 2004, Microsoft commissioned research firms to do independent studies comparing the  total cost of ownership  (TCO) of  Windows Server 2003  to  Linux ; the firms concluded that companies found Windows easier to administrate than Linux, thus those using Windows would administrate faster resulting in lower costs for their company (i.e
+lower TCO)
+ This spurred a wave of related studies; a study by the  Yankee Group  concluded that upgrading from one version of Windows Server to another costs a fraction of the  switching costs  from Windows Server to Linux, although companies surveyed noted the increased security and reliability of Linux servers and concern about being locked into using Microsoft products
+Another study, released by the  Open Source Development Labs , claimed that the Microsoft studies were "simply outdated and one-sided" and their survey concluded that the TCO of Linux was lower due to Linux administrators managing more servers on average and other reasons
+As part of the "Get the Facts" campaign, Microsoft highlighted the  .NET  trading platform that it had developed in partnership with  Accenture  for the  London Stock Exchange , claiming that it provided " five nines " reliability
+After suffering extended downtime and unreliability   the LSE announced in 2009 that it was planning to drop its Microsoft solution and switch to a Linux based one in 2010
+ Cooperation with the United States GovernmentMicrosoft provides early access of reported bugs in their software to the United States Government
+LogoMicrosoft adopted the so-called " Pac-Man  Logo", designed by Scott Baker, in 1987
+Baker stated "The new logo, in Helvetica italic typeface, has a slash between the o and s to emphasize the "soft" part of the name and convey motion and speed."  Dave Norris ran an internal joke campaign to save the old logo, which was green, in all uppercase, and featured a fanciful letter O, nicknamed the blibbet, but it was discarded
+Microsoft's logo with the "Your potential
+Our passion." tagline below the main corporate name, is based on a slogan Microsoft used in 2008
+In 2002, the company started using the logo in the United States and eventually started a TV campaign with the slogan, changed from the previous tagline of " Where do you want to go today? "
+During the private MGX (Microsoft Global Exchange) conference in 2010, Microsoft unveiled the company's next tagline, "Be What's Next.".On August 23, 2012, Microsoft unveiled a new corporate logo at the opening of its 23rd Microsoft store in Boston indicating the company's shift of focus from the classic style to the tile-centric modern interface which it uses/will use on the Windows Phone platform, Xbox 360, Windows 8 and the upcoming Office Suites
+ The new logo also includes four squares with the colors of the then-current Windows logo
+ This logo is, however, not completely new - it was featured in  Windows 95  commercials from the mid-1990s
+  1987 - Microsoft " Pac-Man " logo, designed by Scott Baker and used from 1987 to 2012 with the 19942002 slogan " Where do you want to go today? "
+20062011 - Microsoft logo as of 20062011, with the slogan "Your potential
+Our passion."  20112012 - Logo by Microsoft with the slogan "Be what's next."  2012present - Introduced on August 23, 2012, to symbolize the "world of digital motion" and Microsoft's "diverse portfolio of products".See alsoReferencesExternal links                                                                                                                                                                                                                                                                                                                                                                                                                                                                         Android is an  operating system  based on the  Linux kernel , Android was unveiled in 2007 along with the founding of the  Open Handset Alliance : a consortium of  hardware , software, and telecommunication companies devoted to advancing  open standard s for mobile devices
+The  first Android-powered phone  was sold in October 2008
+The  user interface  of Android is based off  direct manipulation , using touch inputs that loosely correspond to real-world actions, like swiping, tapping, pinching and reverse pinching to manipulate on-screen objects
+Internal hardware such as  accelerometer s,  gyroscope s and  proximity sensor s are used by some applications to respond to additional user actions, for example adjusting the screen from portrait to landscape depending on how the device is oriented
+Android allows users to customize their homescreens with shortcuts to applications and  widgets , which allow users to display live content, such as emails and weather information, directly on the homescreen
+Applications can further send notifications to the user to inform them of relevant information, such as new emails and text messages.Android is  open source  and Google releases the code under the  Apache License 
+This open-source code and permissive licensing allows the software to be freely modified and distributed by device manufacturers, wireless carriers and enthusiast developers
+However, most Android devices ship with additional proprietary software
+A developer survey conducted in AprilMay 2013 found that Android is the most popular platform for developers, used by 71% of the mobile developer population
+Android is the world's most widely used smartphone platform, overtaking  Symbian  in the fourth quarter of 2010
+ Android is popular with technology companies who require a ready-made, low-cost, customizable and lightweight operating system for  high tech  devices
+ Despite being primarily designed for phones and tablets, it has been also used in televisions,  games console s,  digital camera s and other electronics
+Android's open nature has encouraged a large community of developers and enthusiasts to use the open-source code as a foundation for community-driven projects, which add new features for advanced users  or bring Android to devices which were officially released running other operating systems.Android's share of the global smartphone market, led by Samsung products, was 64% in March 2013
+The operating system's success has made it a target for patent litigation as part of the so-called " smartphone wars " between technology companies
+As of May 2013, 48 billion apps have been installed from the Google Play store,   and as of September 3, 2013, 1 billion Android devices have been activated
+HistoryAndroid, Inc
+was founded in  Palo Alto, California  in October 2003 by  Andy Rubin  (co-founder of  Danger ),  Rich Miner  (co-founder of Wildfire Communications, Inc.), Nick Sears  (once VP at  T-Mobile ), and Chris White (headed design and interface development at  WebTV ) Google  acquired Android Inc
+on August 17, 2005, making it a wholly owned subsidiary of Google
+Key employees of Android Inc., including Rubin, Miner and White, stayed at the company after the acquisition.Speculation about Google's intention to enter the mobile communications market continued to build through December 2006
+Reports from the  BBC  and the  Wall Street Journal  noted that Google wanted its search and applications on mobile phones and it was working hard to deliver that
+Print and online media outlets soon reported rumors that Google was developing a Google-branded  handset 
+Some speculated that as Google was defining technical specifications, it was showing prototypes to cell phone manufacturers and network operators
+In September 2007,  InformationWeek  covered an  Evalueserve  study reporting that Google had filed several patent applications in the area of mobile telephony.On November 5, 2007, the  Open Handset Alliance , a  consortium  of technology companies including Google, device manufacturers such as  HTC ,  Sony  and  Samsung , wireless carriers such as  Sprint Nextel  and  T-Mobile , and chipset makers such as  Qualcomm  and  Texas Instruments , unveiled itself, with a goal to develop  open standard s for mobile devices.In 2010, Google launched its   Nexus  series of devicesa line of smartphones and tablets running the Android operating system, and built by a manufacturer partner
+HTC collaborated with Google to release the first Nexus smartphone,  the  Nexus One 
+The series has since been updated with newer devices, such as the  Nexus4  phone and  Nexus10  tablet, made by  LG  and Samsung respectively
+Google releases the Nexus phones and tablets to act as their  flagship  Android devices, demonstrating Android's latest software and hardware features
+On March 13, 2013, it was announced by  Larry Page  in a blog post that Andy Rubin had moved from the Android division to take on new projects at Google
+  He was replaced by  Sundar Pichai , who also continues his role as the head of Google's Chrome division,  which develops  Chrome OS .Since 2008, Android has seen  numerous updates  which have incrementally improved the operating system, adding new features and fixing bugs in previous releases
+Each major release is named in alphabetical order after a dessert or sugary treat; for example, version 1.5 Cupcake was followed by 1.6 Donut
+The latest released version is 4.3 Jelly Bean; however, version 4.4  KitKat  was announced on September 3, 2013
+FeaturesInterfaceAndroid's user interface is based on  direct manipulation , using touch inputs that loosely correspond to real-world actions, like swiping, tapping, pinching and reverse pinching to manipulate on-screen objects
+ The response to user input is designed to be immediate and provides a fluid touch interface, often using the vibration capabilities of the device to provide  haptic feedback  to the user
+Internal hardware such as  accelerometer s,  gyroscope s and  proximity sensor s   are used by some applications to respond to additional user actions, for example adjusting the screen from portrait to landscape depending on how the device is oriented, or allowing the user to steer a vehicle in a racing game by rotating the device, simulating control of a  steering wheel 
+Android devices boot to the homescreen, the primary navigation and information point on the device, which is similar to the  desktop  found on PCs
+Android homescreens are typically made up of app icons and  widget s; app icons launch the associated app, whereas widgets display live, auto-updating content such as the weather forecast, the user's email inbox, or a  news ticker  directly on the homescreen
+ A homescreen may be made up of several pages that the user can swipe back and forth between, though Android's homescreen interface is heavily customisable, allowing the user to adjust the look and feel of the device to their tastes
+  Third-party apps available on  Google Play  and other app stores can extensively re- theme  the homescreen, and even mimic the look of other operating systems, such as  Windows Phone 
+ Most manufacturers, and some  wireless carriers , customise the look and feel of their Android devices to differentiate themselves from their competitors
+Present along the top of the screen is a status bar, showing information about the device and its connectivity
+This status bar can be "pulled" down to reveal a notification screen where apps display important information or updates, such as a newly received email or SMS text, in a way that does not immediately interrupt or inconvenience the user
+In early versions of Android these notifications could be tapped to open the relevant app, but recent updates have provided enhanced functionality, such as the ability to call a number back directly from the missed call notification without having to open the dialer app first
+Notifications are persistent until read or dismissed by the user.ApplicationsAndroid has a growing selection of third party applications, which can be acquired by users either through an app store such as  Google Play  or the  Amazon Appstore , or by downloading and installing the application's  APK  file from a third-party site
+The Play Store application allows users to browse, download and update apps published by Google and third-party developers, and is pre-installed on devices that comply with Google's compatibility requirements
+ The app filters the list of available applications to those that are compatible with the user's device, and developers may restrict their applications to particular carriers or countries for business reasons
+ Purchases of unwanted applications can be refunded within 15 minutes of the time of download, and some carriers offer direct carrier billing for Google Play application purchases, where the cost of the application is added to the user's monthly bill
+ As of September 2012, there were more than 675,000 apps available for Android, and the estimated number of applications downloaded from the Play Store was 25 billion.Applications are developed in the  Java  language using the  Android software development  kit (SDK)
+The SDK includes a comprehensive set of development tools,   including a  debugger ,  software libraries , a handset  emulator  based on  QEMU , documentation, sample code, and tutorials
+The officially supported  integrated development environment  (IDE) is  Eclipse  using the Android Development Tools (ADT) plugin
+Other development tools are available, including a  Native Development Kit  for applications or extensions in C or C++,  Google App Inventor , a visual environment for novice programmers, and various  cross platform mobile web applications frameworks .In order to work around limitations on reaching Google services due to  Internet censorship in the People's Republic of China , Android devices sold in the PRC are generally customized to use state approved services instead
+Memory managementSince Android devices are usually battery-powered, Android is designed to manage memory ( RAM ) to keep power consumption at a minimum, in contrast to desktop operating systems which generally assume they are connected to unlimited  mains electricity 
+When an Android app is no longer in use, the system will automatically suspend it in memory  while the app is still technically "open," suspended apps consume no resources (e.g
+battery power or processing power) and sit idly in the background until needed again
+This has the dual benefit of increasing the general responsiveness of Android devices, since apps don't need to be closed and reopened from scratch each time, but also ensuring background apps don't consume power needlessly.Android manages the apps stored in memory automatically: when memory is low, the system will begin killing apps and processes that have been inactive for a while, in reverse order since they were last used (i.e
+oldest first)
+This process is designed to be invisible to the user, such that users do not need to manage memory or the killing of apps themselves
+However, confusion over Android memory management has resulted in third-party task killers becoming popular on the  Google Play  store; these third-party task killers are generally regarded as doing more harm than good
+Hardware requirements As of November 2013, current versions of Android require at least 512 MB  of RAM, and a  32-bit   ARMv7 ,  MIPS  or  x86  architecture processor, together with an  OpenGL ES  2.0 compatible  graphics processing unit  (GPU).The main hardware platform for Android is the 32-bit ARMv7 architecture
+There is support for x86 from the  Android-x86  project, and  Google TV  uses a special x86 version of Android
+In 2013,  Freescale  announced Android on its  i.MX  processor, i.MX5X and i.MX6X series
+In 2012 Intel processors began to appear on more mainstream Android platforms, such as phones
+DevelopmentAndroid is developed in private by Google until the latest changes and updates are ready to be released, at which point the source code is made available publicly
+ This source code will only run without modification on select devices, usually the  Nexus  series of devices
+ With others, there are proprietary  binaries  which have to be provided by the manufacturer in order for Android to work
+The green Android logo was designed for Google in 2007 by graphic designer Irina Blok
+The design team was tasked with a project to create a universally identifiable icon with the specific inclusion of a robot in the final design
+After numerous design developments based on  science-fiction  and space movies, the team eventually sought inspiration from the human symbol on restroom doors and modified the figure into a robot shape
+As Android is open-sourced, it was agreed that the logo should be likewise, and since its launch the green logo has been reinterpreted into countless variations on the original design
+Update schedule Google provides major updates, incremental in nature, to Android every six to nine months, which most devices are capable of receiving  over the air 
+ The latest major update is Android 4.4 KitKat
+Compared to its chief rival mobile operating system, namely  iOS , Android updates are typically slow to reach actual devices
+For devices not under the  Nexus  brand, updates often arrive months from the time the given version is officially released
+This is caused partly due to the extensive variation in  hardware  of Android devices, to which each update must be specifically tailored, as the official Google source code only runs on their flagship  Nexus  devices
+ Porting  Android to specific hardware is a time- and resource-consuming process for device manufacturers, who prioritize their newest devices and often leave older ones behind
+ Hence, older smartphones are frequently not updated if the manufacturer decides it is not worth their time, regardless of whether the phone is capable of running the update
+This problem is compounded when manufacturers customize Android with their own interface and apps, which must be reapplied to each new release
+Additional delays can be introduced by wireless carriers who, after receiving updates from manufacturers, further customize and brand Android to their needs and conduct extensive testing on their networks before sending the update out to users
+The lack of after-sale support from manufacturers and carriers has been widely criticized by consumer groups and the technology media
+ Some commentators have noted that the industry has a financial incentive not to update their devices, as the lack of updates for existing devices fuels the purchase of newer ones,  an attitude described as "insulting"
+  The Guardian  has complained that the complicated method of distribution for updates is only complicated because manufacturers and carriers have designed it that way
+ In 2011, Google partnered with a number of industry players to announce an "Android Update Alliance", pledging to deliver timely updates for every device for 18 months after its release
+ As of 2013, this alliance has never been mentioned since
+To combat this, Google began updating many of its services, including  Google Maps  and  Google Play Music  independently of Android itself through Google Play Services, a system-level component providing  API s for Google services, which is installed automatically and updated directly by Google, and supports nearly all devices running version 2.2 and higher.Linux backgroundAs of November 2013, current Android versions consist of a  kernel  based on the  Linux kernel  version 3.x, while Android versions older than 4.0 Ice Cream Sandwich were based on the Linux kernel 2.6.x
+       On top of that, there are the  middleware ,  libraries  and  APIs  written in  C , and  application software  running on an  application framework  which includes Java-compatible libraries based on  Apache Harmony 
+Android uses the  Dalvik virtual machine  with  just-in-time compilation  to run Dalvik "dex-code" (Dalvik Executable), which is usually translated from the  Java bytecode 
+Android's Linux kernel has further architecture changes by Google outside the typical Linux kernel development cycle
+ Android does not have a native  X Window System  by default nor does it support the full set of standard  GNU  libraries, and this makes it difficult to port existing Linux applications or libraries to Android
+ Support for simple C and  SDL  applications is possible by injection of a small Java  shim  and usage of the  JNI  like, for example, in the  Jagged Alliance 2  port for Android.Certain features that Google contributed back to the Linux kernel, notably a power management feature called "wakelocks", were rejected by mainline kernel developers partly because they felt that Google did not show any intent to maintain its own code
+ Google announced in April 2010 that they would hire two employees to work with the Linux kernel community,  but  Greg Kroah-Hartman , the current Linux kernel maintainer for the stable branch, said in December 2010 that he was concerned that Google was no longer trying to get their code changes included in mainstream Linux
+ Some Google Android developers hinted that "the Android team was getting fed up with the process," because they were a small team and had more urgent work to do on Android
+In August 2011,  Linus Torvalds  said that "eventually Android and Linux would come back to a common kernel, but it will probably not be for four to five years"
+ In December 2011,  Greg Kroah-Hartman  announced the start of the Android Mainlining Project, which aims to put some Android  drivers , patches and features back into the Linux kernel, starting in Linux 3.3
+ Linux included the autosleep and wakelocks capabilities in the 3.5 kernel, after many previous attempts at merger
+The interfaces are the same but the upstream Linux implementation allows for two different suspend modes: to memory (the traditional suspend that Android uses), and to disk (hibernate, as it is known on the desktop)
+ Google maintains a public code repository that contains their experimental work to re-base Android off the latest stable Linux versions
+ The  flash storage  on Android devices is split into several partitions, such as  /system  for the operating system itself, and  /data  for user data and application installations
+ In contrast to desktop Linux distributions, Android device owners are not given  root  access to the operating system and sensitive partitions such as /system are  read-only 
+However, root access can be obtained by exploiting  security flaws  in Android, which is used frequently by the  open-source community  to enhance the capabilities of their devices,  but also by malicious parties to install  viruses  and  malware 
+Android is a Linux distribution according to the  Linux Foundation   and Google's open-source chief,  Chris DiBona 
+ Others, such as Google engineer Patrick Brady, disagree that it is a Linux distribution, noting the lack of support for many GNU tools in Android, including  glibc 
+ Open-source community Android has an active community of developers and enthusiasts who use the Android source code to develop and distribute their own modified versions of the operating system
+These community-developed releases often bring new features and updates to devices faster than through the official manufacturer/carrier channels, albeit without as extensive testing or quality assurance; provide continued support for older devices that no longer receive official updates; or bring Android to devices that were officially released running other operating systems, such as the  HP TouchPad 
+Community releases often come pre- rooted  and contain modifications unsuitable for non-technical users, such as the ability to  overclock  or  over/undervolt  the device's processor
+  CyanogenMod  is the most widely used community firmware,  and acts as a foundation for numerous others.Historically, device manufacturers and mobile carriers have typically been unsupportive of third-party  firmware  development
+Manufacturers express concern about improper functioning of devices running unofficial software and the support costs resulting from this
+Moreover, modified firmwares such as CyanogenMod sometimes offer features, such as  tethering , for which carriers would otherwise charge a premium
+As a result, technical obstacles including locked  bootloader s and restricted access to root permissions are common in many devices
+However, as community-developed software has grown more popular, and following a statement by the Librarian of Congress in the United States that permits the " jailbreaking " of mobile devices,  manufacturers and carriers have softened their position regarding third party development, with some, including  HTC ,  Motorola ,   Samsung    and  Sony ,  providing support and encouraging development
+As a result of this, over time the need to circumvent  hardware restrictions  to install unofficial firmware has lessened as an increasing number of devices are shipped with unlocked or unlockable  bootloader s, similar to the  Nexus  series of phones, although usually requiring that users waive their devices' warranties to do so.The unlocking and "hackability" of smartphones and tablets remains a source of tension between the community and industry, with the community arguing that unofficial development is increasingly important given the failure of industry to provide timely updates and/or continued support to their devices
+Security and privacyAndroid applications run in a  sandbox , an isolated area of the system that does not have access to the rest of the system's resources, unless access permissions are explicitly granted by the user when the application is installed
+Before installing an application, the  Play Store  displays all required permissions: a game may need to enable vibration or save data to an  SD card , for example, but should not need to read SMS messages or access the phonebook
+ After reviewing these permissions, the user can choose to accept or refuse them, installing the application only if they accept
+ The sandboxing and permissions system lessens the impact of vulnerabilities and bugs in applications, but developer confusion and limited documentation has resulted in applications routinely requesting unnecessary permissions, reducing its effectiveness
+Several security firms, such as  Lookout Mobile Security ,   AVG Technologies ,  and  McAfee ,  have released antivirus software for Android devices
+This software is ineffective as sandboxing also applies to such applications, limiting their ability to scan the deeper system for threats.Research from security company  Trend Micro  lists premium service abuse as the most common type of Android malware, where text messages are sent from infected phones to  premium-rate telephone number s without the consent or even knowledge of the user
+Other malware displays unwanted and intrusive adverts on the device, or sends personal information to unauthorised third parties
+and have accused the security industry of playing on fears to sell virus protection software to users
+ Google maintains that dangerous malware is actually extremely rare,  and a survey conducted by F-Secure showed that only 0.5% of Android malware reported had come from the Google Play store
+Google currently uses their  Google Bouncer  malware scanner to watch over and scan the Google Play store apps
+ It is intended to flag up suspicious apps and warn users of any potential issues with an application before they download it
+ Android version 4.2 Jelly Bean was released in 2012 with enhanced security features, including a malware scanner built into the system, which works in combination with Google Play but can scan apps installed from third party sources as well, and an alert system which notifies the user when an app tries to send a premium-rate text message, blocking the message unless the user explicitly authorises it
+Android smartphones have the ability to report the location of  Wi-Fi  access points, encountered as phone users move around, to build databases containing the physical locations of hundreds of millions of such access points
+These databases form electronic maps to locate smartphones, allowing them to run apps like  Foursquare ,  Google Latitude ,  Facebook Places , and to deliver location-based ads
+ Third party monitoring software such as TaintDroid,  an academic research-funded project, can, in some cases, detect when personal information is being sent from applications to remote servers
+ In August 2013, Google released the Android Device Manager, a component that allows users to remotely track, locate, and wipe their Android device through an online interface
+As it is implemented through Google Play Services instead of within Android itself, it is available to most Android devices with version 2.2 and higher.The open-source nature of Android allows security contractors to take existing devices and adapt them for highly secure uses
+For example Samsung has worked with General Dynamics through their  Open Kernel Labs  acquisition to rebuild Jelly Bean on top of their hardened microvisor for the "Knox" project
+ As part of the broader  2013 mass surveillance disclosures  it was revealed in September 2013 that the American and British intelligence agencies, the NSA and  Government Communications Headquarters  (GCHQ) respectively, have access to the user data in iPhones, Blackberries, and Android phones
+They are able to read almost all smartphone information, including SMS, location, emails, and notes
+Licensing The  source code  for Android is available under  free and open-source software  licenses
+ Google  publishes most of the code (including network and telephony  stacks )  under the  Apache License  version 2.0,   and the rest, Linux kernel changes, under the  GNU General Public License  version 2
+The  Open Handset Alliance  develops the changes to the Linux kernel, in public, with source code publicly available at all times
+The rest of Android is developed in private by Google, with source code released publicly when a new version is released
+Typically Google collaborates with a hardware manufacturer to produce a "flagship" device (part of the  Google Nexus  series) featuring the new version of Android, then makes the source code available after that device has been released
+In early 2011, Google chose to temporarily withhold the Android source code to the tablet-only 3.0 Honeycomb release
+The reason, according to  Andy Rubin  in an official Android blog post, was because Honeycomb was rushed for production of the  Motorola Xoom ,  and they did not want third parties creating a "really bad user experience" by attempting to put onto smartphones a version of Android intended for tablets
+ The source code was once again made available in November 2011 with the release of Android 4.0.Even though the software is open-source, device manufacturers cannot use Google's Android trademark unless Google certifies that the device complies with their Compatibility Definition Document (CDD)
+Devices must also meet this definition to be eligible to license Google's closed-source applications, including  Google Play 
+ In the last few years, as of November 2013, a number of open-source Android applications stopped receiving improvements and new features from Google, who has gradually moved further enhancements and primary development into their closed-source variants
+ At the same time, Google Play Services inherits and introduces development APIs which are also proprietary
+Richard Stallman  and the  Free Software Foundation  have been critical of Android and have recommended the usage of alternatives such as  Replicant , because drivers and firmware vital for the proper functioning of Android devices are usually proprietary, and because Google Play allows  non-free  software
+ Reception Android received a lukewarm reaction when it was unveiled in 2007
+Although analysts were impressed with the respected technology companies that had partnered with Google to form the Open Handset Alliance, it was unclear whether mobile phone manufacturers would be willing to replace their existing operating systems with Android
+ The idea of an open-source, Linux-based  development platform  sparked interest,  but there were additional worries about Android facing strong competition from established players in the smartphone market, such as Nokia and Microsoft, and rival Linux mobile operating systems that were in development
+ These established players were skeptical:  Nokia  was quoted as saying "we don't see this as a threat,"Since then Android has grown to become the most widely used smartphone operating system and "one of the fastest mobile experiences available." Reviewers have highlighted the open-source nature of the operating system as one of its defining strengths, allowing companies such as Amazon ( Kindle Fire ),  Barnes & Noble  ( Nook ),  Ouya ,  Baidu , and others to  fork  the software and release hardware running their own customised version of Android
+As a result, it has been described by technology website  Ars Technica  as "practically the default operating system for launching new hardware" for companies without their own mobile platforms
+ This openness and flexibility is also present at the level of the end user: Android allows extensive customisation of devices by their owners and apps are freely available from non-Google app stores and third party websites
+These have been cited as among the main advantages of Android phones over others
+ Despite Android's popularity, including an activation rate three times that of iOS, there have been reports that Google has not been able to leverage their other products and web services successfully to turn Android into the money maker that analysts had expected
+  The Verge  suggested that Google is losing control of Android due to the extensive customization and proliferation of non-Google apps and services  for instance the Amazon  Kindle Fire  points users to the Amazon app store that competes directly with the Google Play store
+Google SVP  Andy Rubin , who was replaced as head of the Android division in March 2013, has been blamed for failing to establish a lucrative partnership with cell phone makers
+The chief beneficiary of Android has been  Samsung , whose  Galaxy  brand has surpassed that of Android in terms of brand recognition since 2011
+  Meanwhile other Android manufacturers have struggled since 2011, such as LG, HTC, and Google's own  Motorola Mobility  (whose partnership with  Verizon Wireless  to push the "DROID" brand has faded since 2010)
+Ironically, while Google directly earns nothing from the sale of each Android device,  Microsoft  and  Apple  have successfully sued to extract patent royalty payments from Android handset manufacturers.Android has suffered from "fragmentation",  a situation where the variety of Android devices, in terms of both hardware variations and differences in the software running on them, makes the task of developing applications that work consistently across the ecosystem harder than rival platforms such as iOS where hardware and software varies less
+For example, according to data from  OpenSignal  in July 2013, there were 11,868 models of Android device, numerous different screen sizes and eight Android OS versions simultaneously in use, while the large majority of iOS users have upgraded to the latest iteration of that OS
+Critics such as  Apple Insider  have asserted that fragmentation via hardware and software pushed Android's growth through large volumes of low end, budget-priced devices running older versions of Android
+They maintain this forces Android developers to write for the "lowest common denominator" to reach as many users as possible, who have too little incentive to make use of the latest hardware or software features only available on a smaller percentage of devices
+ However, OpenSignal, who develops both Android and iOS apps, concluded that although fragmentation can make development trickier, Android's wider global reach also increases the potential reward
+TabletsDespite its success on smartphones, initially Android tablet adoption was slow
+ One of the main causes was the  chicken or the egg  situation where consumers were hesitant to buy an Android tablet due to a lack of high quality tablet apps, but developers were hesitant to spend time and resources developing tablet apps until there was a significant market for them
+ The content and app "ecosystem" proved more important than hardware  specs  as the selling point for tablets
+Due to the lack of Android tablet-specific apps in 2011, early Android tablets had to make do with existing smartphone apps that were ill-suited to larger screen sizes, whereas the dominance of Apple's  iPad  was reinforced by the large number of tablet-specific  iOS  apps
+ Damon Poeter (Dec 7, 2012) "Goldman Highlights Microsoft's Shrinking Market Share" PC Magazine accessdate=2012-12-10Damon Poeter (27 December 2012) "Non-Apple Tablets Making Small Gains on iPad" PC MagazineMatt Hartley (Dec 24 2011) "Massacre of the Tablets" Financial Post Despite app support in its infancy, a considerable number of Android tablets (alongside those using other operating systems, such as the  HP TouchPad  and  BlackBerry PlayBook ) were rushed out to market in an attempt to capitalize on the success of the iPad
+ InfoWorld has suggested that some Android manufacturers initially treated their first tablets as a "Frankenphone business", a short-term low-investment opportunity by placing a smartphone-optimized Android OS (before Android 3.0 Honeycomb for tablets was available) on a device while neglecting user interface
+This approach, such as with the  Dell Streak , failed to gain market traction with consumers as well as damaging the early reputation of Android tablets
+  Furthermore, several Android tablets such as the  Motorola Xoom  were priced the same or higher than the  iPad , which hurt sales
+An exception was the  Amazon   Kindle Fire , which relied upon lower pricing as well as access to Amazon's ecosystem of apps and content
+ This began to change in 2012 with the release of the affordable  Nexus 7  and a push by Google for developers to write better tablet apps
+ Android tablet market share surpassed the iPad's in Q3 2012
+ Market share Research company Canalys estimated in the second quarter of 2009 that Android had a 2.8% share of worldwide  smartphone  shipments
+By the fourth quarter of 2010 this had grown to 33% of the market, becoming the top-selling smartphone platform
+ By the third quarter of 2011  Gartner  estimated that more than half (52.5%) of the smartphone market belongs to Android
+ By the third quarter of 2012 Android had a 75% share of the global smartphone market according to the research firm IDC
+In July 2011, Google said that 550,000 new Android devices were being activated every day, up from 400,000 per day in May,  and more than 100 million devices had been activated with 4.4% growth per week.Android market share varies by location
+In July 2012, Android's market share in the United States was 52%,  and rose to 90% in China
+ During the third quarter of 2012, Android's worldwide smartphone market share was 75%, with 750 million devices activated in total and 1.5 million activations per day.As of March 2013, Android's share of the global smartphone market, led by Samsung products, was 64%
+The Kantar market research company reported that Googles platform accounted for over 70% of all smartphone device sales in China during this period and that Samsung's loyalty rate in Britain (59%) is second to that of Apple (79%)
+ Platform usage This chart provides data about the relative number of devices accessing the Play Store recently and running a given version of the Android platform as of October 2, 2013
+ Application piracy There has been some concern about the ease with which paid Android apps can be  pirated 
+In a May 2012 interview with  Eurogamer , the developers of  Football Manager  stated that the ratio of pirated players vs legitimate players was 9:1 for their game Football Manager Handheld
+ However, not every developer agreed that piracy rates were an issue; for example, in July 2012 the developers of the game Wind-up Knight said that piracy levels of their game were only 12%, and most of the piracy came from China, where people cannot purchase apps from Google Play
+In 2010, Google released a tool for validating authorized purchases for use within apps, but developers complained that this was insufficient and trivial to  crack 
+Google responded that the tool, especially its initial release, was intended as a sample framework for developers to modify and build upon depending on their needs, not as a finished piracy solution
+ In 2012 Google released a feature in Android 4.1 that encrypted paid applications so that they would only work on the device on which they were purchased, but this feature has been temporarily deactivated due to technical issues
+ Legal issues Both Android and Android phone manufacturers have been involved in numerous patent lawsuits
+On August 12, 2010,  Oracle  sued Google over claimed infringement of copyrights and patents related to the  Java  programming language
+Oracle originally sought damages up to $6.1 billion,  but this valuation was rejected by a United States federal judge who asked Oracle to revise the estimate
+  In response, Google submitted multiple lines of defense, counterclaiming that Android did not infringe on Oracle's patents or copyright, that Oracle's patents were invalid, and several other defenses
+They said that Android is based on  Apache Harmony , a  clean room  implementation of the Java class libraries, and an independently developed virtual machine called  Dalvik 
+ In May 2012, the jury in this case found that Google did not infringe on Oracle's patents, and the trial judge ruled that the structure of the Java APIs used by Google was not copyrightable
+  In addition to lawsuits against Google directly, various  proxy war s have been waged against Android indirectly by targeting manufacturers of Android devices, with the effect of discouraging manufacturers from adopting the platform by increasing the costs of bringing an Android device to market
+Both  Apple  and  Microsoft  have sued several manufacturers for patent infringement, with Apple's ongoing  legal action against Samsung  being a particularly high-profile case
+In October 2011, Microsoft said they had signed patent license agreements with ten Android device manufacturers, whose products account for 55% of the  worldwide revenue for Android devices
+These include  Samsung  and  HTC 
+ Samsung's patent settlement with Microsoft includes an agreement that Samsung will allocate more resources to developing and marketing phones running Microsoft's  Windows Phone  operating system
+Google has publicly expressed its frustration for the current patent landscape in the United States, accusing Apple, Oracle and Microsoft of trying to take down Android through patent litigation, rather than innovating and competing with better products and services
+In 201112, Google purchased  Motorola Mobility  for US$12.5 billion, which was viewed in part as a defensive measure to protect Android, since Motorola Mobility held more than 17,000 patents
+In December 2011, Google bought over a thousand patents from  IBM 
+ In 2013, Fairsearch, a lobbying organization supported by Microsoft, Oracle and others, filed a complaint regarding Android with the  European Commission , alleging that its free of charge distribution model constituted anti-competitive  predatory pricing 
+The  Free Software Foundation Europe , whose donors include Google, disputed the Fairsearch allegations
+Usage on other devices The open and customizable nature of Android allows it to be used on other electronics aside from smartphones and tablets, including laptops and  netbook s,  smartbook s   smart TV s ( Google TV ) and cameras ( Nikon Coolpix S800c  and  Galaxy Camera )
+  In addition, the Android operating system has seen applications on smart glasses ( Google Glass ), wristwatches,   headphones ,  car CD and DVD players,  mirrors,   portable media player s  and  landline s  and  Voice over IP phones 
+  Ouya , a video game console running Android, became one of the most successful  Kickstarter  campaigns,  crowdfunding  US$8.5m for its development,  and was later followed by other Android-based consoles, such as  Nvidia 's  Project Shield an Android device in a  video game controller  form factor
+In 2011, Google demonstrated  "Android@Home", a home automation technology which uses Android to control a range of household devices including light switches, power sockets and thermostats
+ Prototype light bulbs were announced that could be controlled from an Android phone or tablet, but Android head Andy Rubin was cautious to note that "turning a lightbulb on and off is nothing new," pointing to numerous failed home automation services
+Google, he said, was thinking more ambitiously and the intention was to use their position as a  cloud  services provider to bring Google products into customers' homes
+ Another variety of devices are those that, while not running Android themselves, have been designed to interface with and act as a companion to an Android device, such as Sony's  SmartWatch  line
+See also   Android rooting   Android version history   Comparison of mobile operating systems   Index of Android OS articles   List of GPS software for mobile phones   Bada  References  External links                                                                                                                                                                                                                                                                                                      Google#Softweri The iPhone ( ) is a line of  smartphone s designed and marketed by  Apple Inc
+ It runs Apple's  iOS  mobile operating system
+The  first generation iPhone  was released on June 29, 2007;  the most recent iPhones, the seventh-generation  iPhone 5C  and  iPhone 5S , were introduced on September 10, 2013
+The  user interface  is built around the device's  multi-touch  screen, including a  virtual keyboard 
+The iPhone has  Wi-Fi  and cellular connectivity ( 2G ,  3G ,  4G , and  LTE )
+An iPhone can  shoot video  (though this was not a standard feature until the  iPhone 3GS ),  take photos ,  play music , send and receive email,  browse the web , send  texts , and receive  visual voicemail 
+Other functions  video games, reference works,  GPS navigation , social networking, etc
+ can be enabled by downloading  application programs (apps) ; as of October 2013, the  App Store  offered more than 1 million apps by Apple and third parties
+There are six  generations  of iPhone models, each accompanied by one of the six major releases of iOS
+The original  1st-generation iPhone  was a  GSM  phone and established design precedents, such as a button placement that has persisted through all models and a screen size maintained for the next four iterations
+ The  iPhone 3G  added  3G  cellular network capabilities and  A-GPS   location 
+The  iPhone 3GS  added a faster  processor  and a higher-resolution camera that could record video at  480p 
+ The  iPhone 4  featured a higher-resolution 960640 " Retina Display ", a VGA front-facing camera for video calling and other apps, and a 5-megapixel rear-facing camera with 720p video capture
+ The  iPhone 4S  upgrades to an 8- megapixel  camera with  1080p  video recording, a dual-core A5 processor, and a  natural language   voice control  system called  Siri 
+   iPhone 5  features the dual-core A6 processor, increases the size of the Retina display to 4 inches, and replaces the 30-pin connector with an all-digital  Lightning connector 
+As of 2013, the iPhone 3GS had the longest production run, 1181 days; followed by the iPhone 4, produced for 1174 days
+The resounding sales of the iPhone have been credited with reshaping the smartphone industry and helping make Apple one of the world's most valuable publicly traded companies in 201112
+ The iPhone is the top-selling phone of any kind in some countries, including the  United States  and  Japan .History and availability  ImageSize=width:270 height:360PlotArea=left:60 bottom:50 top:10 right:16AlignBars=justifyPeriod=from:0 till:50TimeAxis=orientation:horizontalColors= id:gray value:gray(0.5) id:line1 value:gray(0.9) id:line2 value:gray(0.7)ScaleMajor=unit:year increment:25 start:0 gridcolor:line2ScaleMinor=unit:year increment:25 start:0 gridcolor:line1BarData= bar:Q3_2007 text:Q3_2007 bar:Q4_2007 text:Q4_2007 bar:Q1_2008 text:Q1_2008 bar:Q2_2008 text:Q2_2008 bar:Q3_2008 text:Q3_2008 bar:Q4_2008 text:Q4_2008 bar:Q1_2009 text:Q1_2009 bar:Q2_2009 text:Q2_2009 bar:Q3_2009 text:Q3_2009 bar:Q4_2009 text:Q4_2009 bar:Q1_2010 text:Q1_2010 bar:Q2_2010 text:Q2_2010 bar:Q3_2010 text:Q3_2010 bar:Q4_2010 text:Q4_2010 bar:Q1_2011 text:Q1_2011 bar:Q2_2011 text:Q2_2011 bar:Q3_2011 text:Q3_2011 bar:Q4_2011 text:Q4_2011 bar:Q1_2012 text:Q1_2012 bar:Q2_2012 text:Q2_2012 bar:Q3_2012 text:Q3_2012 bar:Q4_2012 text:Q4_2012 bar:Q1_2013 text:Q1_2013 bar:Q2_2013 text:Q2_2013 bar:Q3_2013 text:Q3_2013 bar:Q4_2013 text:Q4_2013PlotData= color:tan1 width:10 bar:Q3_2007 from:start till:0.270000 text:0.27 million bar:Q4_2007 from:start till:1.190000 text:1.19 million bar:Q1_2008 from:start till:2.315000 text:2.315 million bar:Q2_2008 from:start till:1.703000 text:1.703 million bar:Q3_2008 from:start till:0.717000 text:0.717 million bar:Q4_2008 from:start till:6.890000 text:6.89 million bar:Q1_2009 from:start till:4.363000 text:4.363 million bar:Q2_2009 from:start till:3.793000 text:3.793 million bar:Q3_2009 from:start till:5.208000 text:5.208 million bar:Q4_2009 from:start till:7.367000 text:7.367 million bar:Q1_2010 from:start till:8.737000 text:8.737 million bar:Q2_2010 from:start till:8.752000 text:8.752 million bar:Q3_2010 from:start till:8.398000 text:8.398 million bar:Q4_2010 from:start till:14.102000 text:14.102 million bar:Q1_2011 from:start till:16.240000 text:16.240 million bar:Q2_2011 from:start till:18.650000 text:18.65 million bar:Q3_2011 from:start till:20.340000 text:20.34 million bar:Q4_2011 from:start till:17.070000 text:17.07 million bar:Q1_2012 from:start till:37.040000 text:37.04 million bar:Q2_2012 from:start till:35.100000 text:35.10 million bar:Q3_2012 from:start till:26.000000 text:26.00 million bar:Q4_2012 from:start till:26.900000 text:26.90 million bar:Q1_2013 from:start till:47.800000 text:47.80 million bar:Q2_2013 from:start till:37.400000 text:37.40 million bar:Q3_2013 from:start till:31.200000 text:31.20 million bar:Q4_2013 from:start till:33.800000 text:33.80 millionTextData= pos:(70,20) textcolor:gray fontsize:S text:Worldwide iPhone sales by Apple's fiscalTextData= pos:(70,5) textcolor:gray fontsize:S text:quarters (Q1 2012 = OctDec 2011)
+ Development of what was to become the iPhone began in 2004, when Apple started to gather a team of 1000 employees to work on the highly confidential "Project Purple", including Sir  Jonathan Ive , the designer behind the iPhone
+ Apple CEO  Steve Jobs  steered the original focus away from a tablet, like the  iPad , and towards a phone
+ Apple created the device during a secretive collaboration with  AT&T Mobility Cingular Wireless at the timeat an estimated development cost of US$150million over thirty months.Apple rejected the " design by committee " approach that had yielded the  Motorola ROKR E1 , a largely unsuccessful  collaboration with  Motorola 
+Instead, Cingular gave Apple the liberty to develop the iPhone's hardware and software in-house  and even paid Apple a fraction of its monthly service revenue (until the iPhone 3G),  in exchange for four years of exclusive US sales, until 2011.Jobs unveiled the iPhone to the public on January 9, 2007, at the  Macworld  2007 convention at the  Moscone Center  in San Francisco
+The two initial models, a 4GB model priced at US$ 499 and a 8GB model at US$ 599, went on sale in the United States on June 29, 2007, at 6:00pm local time, while hundreds of customers lined up outside the stores nationwide
+The passionate reaction to the launch of the iPhone resulted in sections of the media dubbing it the 'Jesus phone'
+  The 1st generation iPhone was made available in the UK, France, and Germany in November 2007, and Ireland and Austria in the spring of 2008.On July 11, 2008, Apple released the iPhone 3G in twenty-two countries, including the original six
+Apple released the iPhone 3G in upwards of eighty countries and territories
+Apple announced the iPhone 3GS on June 8, 2009, along with plans to release it later in June, July, and August, starting with the US, Canada and major European countries on June 19
+Many would-be users objected to the iPhone's cost,  and 40% of users have household incomes over US$100,000
+The back of the original 1st generation iPhone was made of aluminum with a black plastic accent
+The iPhone 3G and 3GS feature a full plastic back to increase the strength of the  GSM  signal
+ The iPhone 3G was available in an 8GB black model, or a black or white option for the 16GB model
+The iPhone 3GS was available in both colors, regardless of storage capacity.The iPhone 4 has an  aluminosilicate  glass front and back with a  stainless steel  edge that serves as the  antennas 
+It was at first available in black; the white version was announced, but not released until April 2011, 10 months later.The iPhone has garnered positive reviews from such critics as  David Pogue  and  Walt Mossberg 
+The iPhone attracts users of all ages,  and besides consumer use, the iPhone has also been adopted for  business purposes 
+Users of the iPhone 4 reported dropped/disconnected telephone calls when holding their phones in a certain way
+This became known as  antennagate 
+On January 11, 2011,  Verizon  announced during a media event that it had reached an agreement with Apple and would begin selling a  CDMA2000   iPhone 4 
+Verizon said it would be available for pre-order on February 3, with a release set for February 10
+  In February 2011, the Verizon iPhone accounted for 4.5% of all iPhone ad impressions in the US on Millennial Media's mobile ad network.From 2007 to 2011, Apple spent $647million on advertising for the iPhone in the US
+On Tuesday, September 27, Apple sent invitations for a press event to be held October 4, 2011, at 10:00am at the Cupertino Headquarters to announce details of the next generation iPhone, which turned out to be  iPhone 4S 
+Over 1million 4S models were sold in the first 24 hours after its release in October 2011
+ Due to large volumes of the iPhone being manufactured and its high selling price, Apple became the largest mobile handset vendor in the world by revenue, in 2011, surpassing long-time leader  Nokia 
+American carrier  C Spire Wireless  announced that it would be carrying the iPhone 4S on October 19, 2011
+In January 2012, Apple reported its best quarterly earnings ever, with 53% of its revenue coming from the sale of 37million iPhones, at an  average selling price  of nearly $660
+The average selling price has remained fairly constant for most of the phone's lifespan, hovering between $622 and $660
+The production price of the iPhone 4S was estimated by  IHS iSuppli , in October 2011, to be $188, $207 and $245, for the 16GB, 32GB and 64GB models, respectively
+ Labor costs are estimated at between $12.5 and $30 per unit, with workers on the iPhone assembly line making $1.78 an hour
+In February 2012,  ComScore  reported that 12.4% of US mobile subscribers use an iPhone
+Approximately 6.4million iPhones are active in the US alone
+On September 12, 2012, Apple announced the iPhone 5
+It has a 4-inch display, up from its predecessors' 3.5-inch screen
+The device comes with the same 326 pixels per inch found in the iPhone 4 and 4S
+The iPhone 5 has the  soc  A6 processor, the chip is 22% smaller than the iPhone 4S' A5 and is twice as fast, doubling the graphics performance of its predecessor
+The device is 18% thinner than the iPhone 4S, measuring 7.6mm, and is 20% lighter at 112grams.On July 6, 2013, it was reported that Apple was in talks with Korean mobile carrier,  SK Telecom , to release the next generation iPhone with LTE Advanced technology.On July 22, 2013 the company's suppliers said that Apple is testing out larger screens for the iPhone and iPad
+"Apple has asked for prototype smartphone screens larger than 4 inches and has also asked for screen designs for a new tablet device measuring slightly less than 13 inches diagonally, they said." On September 10, 2013, Apple unveiled two new iPhone models during a highly anticipated press event in  Cupertino ,  California , U.S
+The iPhone 5C, a mid-range-priced version of the handset that is designed to increase accessibility due its price, is available in five colors (green, blue, yellow, pink, and white) and is made of plastic
+The iPhone 5S comes in three colors (black, white, and gold) and the home button is replaced with a fingerprint scanner
+Both phones shipped on September 20, 2013.Sales and profitsFor additional sales information, see the  table of quarterly sales
+Before the release of the iPhone, handset manufacturers such as  Nokia  and  Motorola  were enjoying record sales of  cell phones  based more on fashion and brand rather than technological innovation
+ The smartphone market, dominated at the time by  BlackBerry OS  and  Windows Mobile  devices, was a "staid, corporate-led smartphone paradigm" focused on enterprise needs
+However with its  capacitive touchscreen  and consumer-friendly design, the iPhone fundamentally changed the mobile industry, with  Steve Jobs  proclaiming in 2007 that "the phone was not just a communication tool but a way of life"
+The dominant mobile operating systems at the time such as  Symbian ,  BlackBerry OS , and  Windows Mobile  were not designed to handle additional tasks beyond communication and basic functions;  iPhone OS  (renamed iOS in 2010) was designed as a robust OS with capabilities such as multitasking and graphics in order to meet future consumer demands
+These operating systems never focused on applications and developers, and due to infighting among manufacturers as well as the complex bureaucracy and bloatness of the OS, they never developed a thriving ecosystem like Apple's  App Store  or  Android 's  Google Play .Apple sold 6.1million 1st generation iPhone units over five quarters
+Sales in Q4 2008 surpassed temporarily those of  Research In Motion 's (RIM)  BlackBerry  sales of 5.2million units, which made Apple briefly the third largest mobile phone manufacturer by revenue, after  Nokia  and  Samsung   (it must be noted that some of this income is  deferred )
+Recorded sales grew steadily thereafter, and by the end of  fiscal year  2010, a total of 73.5million iPhones were sold
+By 2010, the iPhone had a market share of barely 4% of all cellphones, however Apple pulled in more than 50% of the total profit that global cellphone sales generate
+  Apple sold 14.1 million iPhones in Q3 2010, representing a 91% unit growth over the year-ago quarter, which was well ahead of IDCs latest published estimate of 64% growth for the global smartphone market in the September quarter
+Apple's sales surpassed that of  Research in Motion s 12.1 million  BlackBerry  units sold in their most recent quarter ended August 2010
+In the United States market alone for Q3 2010, while there were 9.1 million Android-powered smartphones shipped for 43.6% of the market, Apple iOS was the number two phone operating system with 26.2% but the 5.5 million iPhones sold made it the most popular single device
+On March 2, 2011, at the  iPad 2  launch event, Apple announced that they had sold 100million iPhones worldwide
+As a result of the success of the iPhone sales volume and high selling price, headlined by the  iPhone 4S , Apple became the largest mobile handset vendor in the world by revenue in 2011, surpassing long-time leader  Nokia 
+ While the  Samsung Galaxy S II  has proven more popular than the iPhone 4S in parts of Europe, the iPhone 4S is dominant in the United States
+In January 2012, Apple reported its best quarterly earnings ever, with 53% of its revenue coming from the sale of 37million iPhones, at an  average selling price  of nearly $660
+The average selling price has remained fairly constant for most of the phones lifespan, hovering between $622 and $660
+For the eight largest phone manufacturers in Q1 2012, according to Horace Dediu at Asymco, Apple and Samsung combined to take 99% of industry profits (HTC took the remaining 1%, while RIM, LG, Sony Ericsson, Motorola, and Nokia all suffered losses), with Apple earning 73 cents out of every dollar earned by the phone makers
+As the industry profits grew from $5.3 billion in Q1, 2010 to $14.4 billion in Q1, 2012 (quadruple the profits in 2007),   Apple had managed to increase its share of these profits
+This is due to increasing carrier subsidies and the high selling prices of the iPhone, which had a negative effect on the wireless carriers (AT&T Mobility, Verizon, and Sprint) who have seen their EBITDA service margins drop as they sold an increasing number of iPhones
+   By the quarter ended March 31, 2012, Apple's sales from the iPhone alone (at $22.7 billion) exceeded the total of  Microsoft  from all of its businesses ($17.4 billion)
+In Q4 2012, the  iPhone 5  and  iPhone 4S  were the best-selling handsets with sales of 27.4 million (13% of smartphones worldwide) and 17.4 million units, respectively, with the  Samsung Galaxy S III  in third with 15.4 million
+According to Strategy Analytics data, this was an an impressive performance, given the iPhone portfolios premium pricing, adding that the Galaxy SIIIs global popularity appears to have peaked (the Galaxy S III was touted as an iPhone-killer by some in the press when it was released  )
+While Samsung has led in worldwide sales of smartphones, Apple's iPhone line has still managed to top Samsung's smartphone offerings in the United States,  with 21.4% share and 37.8% in that market, respectively
+iOS grew 3.5% to a 37.8%, while Android slid 1.3% to fall to 52.3% share
+The continued top popularity of the iPhone despite growing Android competition was also attributed to Apple being able to deliver  iOS  updates over the air, while  Android  updates are frequently impeded by carrier testing requirements and hardware tailoring, forcing consumers to purchase new Android smartphone in order to get the latest version of that OS
+ However by 2013 Apple's market share had fallen to 13.1%, due to the surging popularity of the Android offerings, and as the iPhone does not compete in the  feature phone  or prepaid segments
+Apple announced on September 1, 2013, that its iPhone trade-in program would be implemented at all of its 250 specialty stores in the US
+For the program to become available, customers must have a valid contract and must purchase a new phone, rather than simply receive credit to be used at a later date
+A significant part of the program's goal is to increase the number of customers who purchase iPhones at Apple stores rather than carrier stores
+On September 20, 2013, the sales date of the iPhone 5s and 5c models, the longest ever queue was observed at the New York City, US flagship Apple store, in addition to prominent queues in San Francisco, US and Canada; however, locations throughout the world were identified for the anticipation of corresponding consumers
+ Apple also increased production of the gold-colored iPhone 5S by an additional one-third due to the particularly strong demand that emerged
+Apple released its opening weekend sales results for the 5c and 5s models, showing an all-time high for the product's sales figures, with 9 million handsets soldthe previous record was set in 2012, when 5 million handsets were sold during the opening weekend of the 5 model
+This was the first time that Apple has simultaneously launched two models and the inclusion of China in the list of markets contributed to the record sales result
+ Apple also announced that, as of September 23, 2013, 200 million devices were running the iOS 7 update, making it the fastest software upgrade in history." HardwareScreen and inputThe  touchscreen  on the first five generations is a 9cm (3.5in)  liquid crystal display  with scratch-resistant glass, while the one on the  iPhone 5  is 4 inches
+ The  capacitive touchscreen  is designed for a bare finger, or multiple fingers for  multi-touch  sensing
+The screens on the first three generations have a resolution of 320480 ( HVGA ) at 163  ppi ; those on the  iPhone 4  and  iPhone 4S  have a resolution of 640960 at 326 ppi, and the  iPhone 5 , 6401136 at 326 ppi
+The  iPhone 5  model's screen results in an aspect ratio of nearly exactly 16:9.The touch and gesture features of the iPhone are based on technology originally developed by  FingerWorks 
+ Most gloves and  styli  prevent the necessary electrical conductivity;  although  capacitive styli  can be used with iPhone's finger-touch screen
+The iPhone 3GS and later also feature a  fingerprint -resistant  oleophobic  coating
+The iPhone has a minimal hardware user interface, featuring five  buttons 
+The only physical menu button is situated directly below the display, and is called the "Home button" because it closes the active app and navigates to the home screen of the interface
+The home button is denoted not by a house, as on many other similar devices, but a  rounded square , reminiscent of the shape of icons on the home screen.A multifunction sleep/wake button is located on the top of the device
+It serves as the unit's power button, and also controls  phone calls 
+When a call is received, pressing the sleep/wake button once silences the ringtone, and when pressed twice transfers the call to voicemail
+Situated on the left spine are the volume adjustment controls
+The iPhone 4 has two separate circular buttons to increase and decrease the volume; all earlier models house two switches under a single plastic panel, known as a rocker switch, which could reasonably be counted as either one or two buttons.Directly above the volume controls is a ring/silent switch that when engaged mutes telephone ringing, alert sounds from new & sent emails, text messages, and other push notifications, camera shutter sounds, Voice Memo sound effects, phone lock/unlock sounds, keyboard clicks, and spoken autocorrections
+This switch does not mute alarm sounds from the Clock application, and in some countries or regions it will not mute the camera shutter or Voice Memo sound effects
+ All buttons except Home were made of plastic on the original 1st generation iPhone and metal on all later models
+The touchscreen furnishes the remainder of the  user interface .A software update in January 2008  allowed the first-generation iPhone to use cell tower and Wi-Fi network locations  trilateration ,  despite lacking  GPS  hardware
+Since the iPhone 3G generation, the smartphone employ  A-GPS  operated by the  United States 
+Since the iPhone 4S generation the device supports in addition the  GLONASS  global positioning system, which is operated by  Russia .SensorsThe display responds to three sensors (four since the iPhone 4)
+Moving the iPhone around triggers two other sensors (three since the iPhone 4), which are used to enable motion-controlled gaming applications and  location-based service s.Proximity sensorA  proximity sensor  deactivates the display and  touchscreen  when the device is brought near the face during a call
+This is done to save battery power and to prevent inadvertent inputs from the user's face and ears.Ambient light sensorAn ambient light sensor adjusts the display brightness which in turn saves battery power.AccelerometerA 3-axis  accelerometer  senses the orientation of the phone and changes the screen accordingly, allowing the user to easily switch between  portrait and landscape  mode
+ Photo browsing, web browsing, and music playing support both upright and left or right widescreen orientations
+ Unlike the  iPad , the iPhone does not rotate the screen when turned upside-down, with the Home button above the screen, unless the running program has been specifically designed to do so
+The 3.0 update added landscape support for still other applications, such as email, and introduced shaking the unit as a form of input
+  The accelerometer can also be used to control  third-party apps , notably games.MagnetometerA magnetometer is built-in since the iPhone 3GS generation, which is used to measure the strength and/or direction of the magnetic field in the vicinity of the device
+Sometimes certain devices or radio signals can interfere with the magnetometer requiring users to either move away from the interference or re-calibrate by moving the device in a figure 8 motion
+Since the iPhone 3GS, the iPhone also features a Compass app which was unique at time of release, showing a compass that points in the direction of the magnetic field.Gyroscopic sensorBeginning with the iPhone 4 generation, Apple's smartphones also include a  gyroscopic sensor , enhancing its perception of how it is moved.Audio and outputOn the bottom of the iPhone, there is a speaker to the left of the dock connector and a microphone to the right
+There is an additional loudspeaker above the screen that serves as an earpiece during phone calls
+The iPhone 4 includes an additional  microphone  at the top of the unit for  noise cancellation , and switches the placement of the microphone and speaker on the base on the unitthe speaker is on the right
+Volume controls are located on the left side of all iPhone models and as a slider in the iPod application.The 3.5mm  TRRS connector  for the headphones is located on the top left corner of the device for the first five generations (original through 4S), after which time it was moved to the bottom left corner
+The headphone socket on the 1st-generation iPhone is recessed into the casing, making it incompatible with most headsets without the use of an adapter
+ Subsequent generations eliminated the problem by using a flush-mounted headphone socket
+Cars equipped with an  auxiliary jack  allow handsfree use of the iPhone while driving as a substitute for  Bluetooth .Apple's own  headset  has a multipurpose button near the microphone that can play or pause music, skip tracks, and answer or end phone calls without touching the iPhone
+A small number of third-party headsets specifically designed for the iPhone also include the microphone and control button
+The current headsets also provide volume controls, which are only compatible with more recent models
+A fourth ring in the audio jack carries this extra information.The built-in  Bluetooth 2.x+EDR  supports wireless earpieces and headphones, which requires the  HSP   profile 
+Stereo audio was added in the 3.0 update for hardware that supports  A2DP 
+  While non-sanctioned third-party solutions exist, the iPhone does not officially support the  OBEX   file transfer   protocol 
+ The lack of these profiles prevents iPhone users from exchanging multimedia files, such as pictures, music and videos, with other Bluetooth-enabled cell phones.Composite  or component  video at up to  576i  and stereo audio can be output from the dock connector using an adapter sold by Apple
+iPhone 4 also supports 1024768  VGA  output  without audio, and  HDMI  output,  with stereo audio, via dock adapters
+The iPhone did not support  voice recording  until the 3.0 software update
+ BatteryThe iPhone features an internal rechargeable lithium-ion battery
+Like an iPod, but unlike most other mobile phones, the battery is not user-replaceable
+The iPhone can be charged when connected to a computer for syncing across the included USB to dock connector cable, similar to  charging an iPod 
+Alternatively, a USB to AC adapter (or "wall charger," also included) can be connected to the cable to charge directly from an  AC outlet .Apple runs tests on preproduction units to determine battery life
+Apple's website says that the battery life "is designed to retain up to 80% of its original capacity after 400 full charge and discharge cycles",  which is comparable to iPod batteries.The battery life of early models of the iPhone has been criticized by several technology journalists as insufficient and less than Apple's claims
+    This is also reflected by a  J
+D
+Power and Associates  customer satisfaction survey, which gave the "battery aspects" of the iPhone 3G its lowest rating of 2 out of 5 stars
+If the battery malfunctions or dies prematurely, the phone can be returned to Apple and replaced for free while still under  warranty 
+ The warranty lasts one year from purchase and can be extended to two years with  AppleCare 
+The battery replacement service and its pricing was not made known to buyers until the day the product was launched,Since July 2007, third-party battery replacement kits have been available  at a much lower price than Apple's own battery replacement program
+These kits often include a small screwdriver and an instruction leaflet, but as with many newer iPod models the battery in the 1st generation iPhone has been  solder ed in
+Therefore a soldering iron is required to install the new battery
+The iPhone 3G uses a different battery fitted with a connector that is easier to replace.A patent filed by the corporation, published in late July 2013, revealed the development of a new iPhone battery system that uses location data in combination with data on the user's habits to moderate the handsets power settings accordingly
+Apple is working towards a power management system that will provide features such as the ability of the iPhone to estimate the length of time a user will be away from a power source to modify energy usage and a detection function that adjusts the charging rate to best suit the type of power source that is being used
+CameraThe 1st-generation iPhone and iPhone 3G have a  fixed-focus  2.0- megapixel  camera on the back for digital photos
+It has no optical zoom, flash or  autofocus , and does not natively support video recording
+(iPhone 3G can record video via a third-party app available on the App Store, and  jailbreaking  also allows users to do so.) iPhone OS 2.0 introduced  geotagging  for photos.The iPhone 3GS has a 3.2-megapixel camera with autofocus, auto white balance, and auto macro (up to 10cm)
+Manufactured by  OmniVision , the camera can also capture 640480 ( VGA  resolution) video at 30 frames per second,  although unlike higher-end  CCD -based video cameras, it exhibits the  rolling shutter  effect
+ The video can be  cropped  on the iPhone and directly uploaded to YouTube,  MobileMe , or other services.The iPhone 4 introduced a 5.0- megapixel  camera (25921936 pixels) that can record video at  720p  resolution, considered  high-definition 
+It also has a  backside-illuminated  sensor that can capture pictures in low light and an  LED   flash  that can stay lit while recording video
+ It is the first iPhone that can natively do  high dynamic range photography 
+The iPhone 4 also has a second camera on the front that can take  VGA  photos and record  SD  video
+Saved recordings may be synced to the host computer, attached to email, or (where supported) sent by  MMS .The iPhone 4S' camera can shoot 8-MP stills and 1080p video, can be accessed directly from the lock screen, and can be triggered using the volume-up button as a shutter trigger
+The built-in gyroscope can stabilize the image while recording video.The  iPhone 5  and  iPhone 4S , running  iOS 6  or later, can take panoramas using the built-in camera app, and the  iPhone 5  also can take still photos while recording video.The camera on the  iPhone 5  reportedly shows purple haze when the light source is just out of frame, although Consumer Reports said it "is no more prone to purple hazing on photos shot into a bright light source than its predecessor or than several Android phones with fine cameras..."On all five model generations, the phone can be configured to bring up the camera app by quickly pressing the home key twice
+On all iPhones running  iOS 5 , it can also be accessed from the lock screen directly.Beta code found in iOS 7 indicates that Apple may be outfitting the camera of the next iPhone with a slow-motion mode
+Storage and SIMThe iPhone was initially released with two options for internal storage size: 4GB or 8GB
+On September 5, 2007, Apple discontinued the 4GB models
+ On February 5, 2008, Apple added a 16GB model
+ The iPhone 3G was available in 16GB and 8GB
+The iPhone 3GS came in 16GB and 32GB variants and remained available in 8GB until September 2012, more than three years after its launch.The iPhone 4 is available in 16GB and 32GB variants, as well as an 8GB variant to be sold alongside the iPhone 4S at a reduced price point
+The iPhone 4S is available in three sizes: 16GB, 32GB and 64GB
+All data is stored on the internal flash drive; the iPhone does not support expanded storage through a memory card slot, or the SIM card
+The iPhone 5 is available in the same three sizes previously available to the iPhone 4S: 16GB, 32GB, and 64GB
+GSM  models of the iPhone use a  SIM card  to identify themselves to the GSM network
+The SIM sits in a tray, which is inserted into a slot at the top of the device
+The SIM tray can be ejected with a  paper clip  or the "SIM ejector tool" (a simple piece of die-cut sheet metal) included with the iPhone 3G and 3GS in the United States and with all models elsewhere in the world
+  Some iPhone models shipped with a SIM ejector tool which was fabricated from an alloy dubbed " Liquidmetal "
+ In most countries, the iPhone is usually sold with a  SIM lock , which prevents the iPhone from being used on a different mobile network
+The  GSM  iPhone 4 features a  MicroSIM  card that is located in a slot on the right side of the device
+The  CDMA  model of the iPhone 4, just the same as any other CDMA-only cell phone, does not use a SIM card or have a SIM card slot.An iPhone 4S activated on a CDMA carrier, however, does have a SIM card slot but does not rely on a SIM card for activation on that CDMA network
+A CDMA-activated iPhone 4S usually has a carrier-approved roaming SIM preloaded in its SIM slot at the time of purchase that is used for roaming on certain carrier-approved international GSM networks only
+The SIM slot is locked to only use the roaming SIM card provided by the CDMA carrier
+   In the case of Verizon, for example, one can request that the SIM slot be unlocked for international use by calling their support number and requesting an international unlock if their account has been in good standing for the past 60 days
+ This method only unlocks the iPhone 4S for use on international carriers
+An iPhone 4S that has been unlocked in this way will reject any non international SIM cards (AT&T Mobility or T-Mobile USA, for example).The iPhone 5 uses the  nano-SIM , in order to save more space for internal components.Liquid contact indicatorsAll iPhones (and many other devices by Apple) have a small disc at the bottom of the headphone  jack  that changes from white to red on contact with water; the iPhone 3G and later models also have a similar indicator at the bottom of the  dock connector 
+ Because Apple warranties do not cover water damage, employees examine the indicators before approving  warranty repair or replacement .The iPhone's indicators are more exposed than those in some mobile phones from other manufacturers, which carry them in a more protected location, such as beneath the battery behind a battery cover
+The iPhone's can be triggered during routine use, by an owner's sweat,  steam in a bathroom, and other light environmental moisture
+ Criticism led Apple to change its water damage policy for iPhones and similar products, allowing customers to request further internal inspection of the phone to verify if internal liquid damage sensors were triggered
+Included itemsAll  iPhone models  include written documentation, and a  dock connector  to  USB  cable
+The 1st generation and 3G iPhones also came with a cleaning cloth
+The 1st generation iPhone included a stereo  headset  ( earbuds  and a microphone) and a plastic dock to hold the unit upright while charging and syncing
+The iPhone 3G includes a similar headset plus a SIM eject tool (the 1st generation model requires a paperclip)
+The iPhone 3GS includes the SIM eject tool and a revised headset, which adds volume buttons (not functional with previous iPhone versions)
+ The iPhone 3G and 3GS are compatible with the same dock, sold separately, but not the 1st generation model's dock
+ All versions include a USB power adapter, or "wall charger," which allows the iPhone to charge from an  AC outlet 
+The iPhone 3G and iPhone 3GS sold in North America, Japan, Colombia, Ecuador, or Peru   include an ultracompact USB power adapter.SoftwareThe iPhone,  iPod Touch  and  iPad  run an  operating system  known as  iOS  (formerly iPhone OS)
+It is a variant of the same  Darwin  operating system core that is found in Mac  OS X 
+Also included is the " Core Animation " software component from  Mac OS X v10.5  Leopard
+Together with the  PowerVR  hardware (and on the iPhone 3GS,  OpenGL ES  2.0), it is responsible for the interface's  motion graphics 
+The operating system takes up less than half a  gigabyte .It is capable of supporting bundled and future applications from Apple, as well as from third-party developers
+Software applications cannot be copied directly from Mac OS X but must be written and compiled specifically for iOS.Like the iPod, the iPhone is managed from a computer using  iTunes 
+The earliest versions of the OS required  version 7.3 or later , which is compatible with Mac OS X version 10.3.9 Panther or later, and 32-bit  Windows XP  or  Vista 
+ The release of iTunes 7.6 expanded this support to include 64-bit versions of XP and Vista,  and a workaround has been discovered for previous 64-bit Windows operating systems
+Apple provides free updates to the OS for the iPhone through iTunes, Version 3.1 required iTunes 9.0, and iOS 4 required iTunes 9.2
+iTunes 10.5, which is required to sync and activate iOS 5, requires Mac OS X 10.5.8 or Leopard on G4 or G5 computers on 800MHz or higher; versions 10.3 and 10.4 and 10.510.5.7 are no longer supported.InterfaceThe  interface  is based around the home screen, a graphical list of available applications
+iPhone applications normally run one at a time
+ Starting with the iPhone 4, a primitive version of multitasking came into play
+ Users could double click the home button to select recently opened
+  However, the apps never ran in the background
+ Starting with iOS 7, though, apps can truly multitask, and each open application runs in the background when not
+  S  although most functionality is still available when making a call or listening to music
+The home screen can be accessed at any time by a hardware button below the screen, closing the open application in the process.By default, the Home screen contains the following icons: Messages ( SMS  and  MMS  messaging), Calendar, Photos, Camera, YouTube, Stocks, Maps ( Google Maps ), Weather, Voice Memos, Notes, Clock, Calculator, Settings,  iTunes (store) ,  App Store , (on the iPhone 3GS and iPhone 4)  Compass , FaceTime and GameCenter were added in iOS 4.0 and 4.1 respectively
+In iOS 5, Reminders and Newsstand were added, as well as the iPod application split into separate Music and Videos applications
+iOS 6 added Passbook as well as an updated version of Maps that relies on data provided by TomTom as well as other sources
+iOS 6 also added a Clock application onto the iPad's homescreen
+However, it also no longer support YouTube
+Docked at the base of the screen, four icons for  Phone ,  Mail ,  Safari  (Internet), and Music delineate the iPhone's main purposes
+ On January 15, 2008, Apple released software update 1.1.3, allowing users to create "Web Clips", home screen icons that resemble apps that open a user-defined page in Safari
+After the update, iPhone users can rearrange and place icons on up to nine other adjacent home screens, accessed by a horizontal swipe.Users can also add and delete icons from the dock, which is the same on every home screen
+Each home screen holds up to twenty icons for  iPhone 2G ,  3G ,  4  and  4S , while each home screen for  iPhone 5  will hold up to twenty-four icons due to a larger screen display, and the dock holds up to four icons
+Users can delete Web Clips and third-party applications at any time, and may select only certain applications for transfer from iTunes
+Apple's default programs, however, may not be removed
+The 3.0 update adds a system-wide search, known as  Spotlight , to the left of the first home screen
+ Almost all input is given through the touch screen, which understands complex gestures using  multi-touch 
+The iPhone's  interaction technique s enable the user to move the content up or down by a touch-drag motion of the finger
+For example, zooming in and out of web pages and photos is done by placing two fingers on the screen and spreading them farther apart or bringing them closer together, a gesture known as " pinching ".Scrolling through a long list or menu is achieved by sliding a finger over the display from bottom to top, or vice versa to go back
+In either case, the list moves as if it is pasted on the outer surface of a wheel, slowly decelerating as if affected by friction
+In this way, the interface simulates the physics of a real object.Other  user-centered   interactive  effects include horizontally sliding sub-selection, the vertically sliding keyboard and bookmarks menu, and widgets that turn around to allow settings to be configured on the other side
+Menu bars are found at the top and bottom of the screen when necessary
+Their options vary by program, but always follow a consistent style motif
+In menu hierarchies, a "back" button in the top-left corner of the screen displays the name of the parent folder.PhoneThe iPhone allows audio  conferencing , call holding, call merging,  caller ID , and integration with other cellular network features and iPhone functions
+For example, if music is playing when a call is received, the music fades out, and fades back in when the call has ended.The  proximity sensor  shuts off the screen and touch-sensitive circuitry when the iPhone is brought close to the face, both to save battery and prevent unintentional touches
+The iPhone does not support  video calling  or  videoconferencing  on versions prior to the fourth generation, as there is only one camera on the opposite side of the screen
+The iPhone 4 supports video calling using either the front or back camera over Wi-Fi, a feature Apple calls  FaceTime 
+ The first two models only support  voice dialing  through third-party applications
+ Voice control, available only on the iPhone 3GS and iPhone 4, allows users to say a contact's name or number and the iPhone will dial.The iPhone includes a  visual voicemail  (in some countries) feature allowing users to view a list of current voicemail messages on-screen without having to call into their voicemail
+Unlike most other systems, messages can be listened to and deleted in a non-chronological order by choosing any message from an on-screen list.A music  ringtone  feature was introduced in the United States on September 5, 2007
+Users can create custom ringtones from songs purchased from the iTunes Store for a small additional fee
+The ringtones can be 3 to 30 seconds long from any part of a song, can fade in and out, pause from half a second to five seconds when looped, or  loop continuously 
+All customizing can be done in iTunes,  or alternatively with Apple's  GarageBand  software 4.1.1 or later (available only on  Mac OS X ) or third-party tools.With the release of  iOS 6 , which was released on September 19, 2012, Apple added features that enable the user to have options to decline a phone call when a person is calling them
+The user has the capability to reply with a message, or to set a reminder to call them back at a later time
+On September 12, 2012, Apple unveiled the iPhone 5, the sixth iteration of the iPhone
+New features included a bigger 4-inch screen, thinner design and 4G LTE.MultimediaThe layout of the music library is similar to that of an  iPod  or current  Symbian   S60  phones
+The iPhone can sort its media library by songs, artists, albums, videos,  playlist s,  genre s, composers,  podcast s,  audiobook s, and  compilations 
+Options are always presented alphabetically, except in playlists, which retain their order from  iTunes 
+The iPhone uses a large font that allows users plenty of room to touch their selection.Users can rotate their device horizontally to  landscape mode  to access  Cover Flow 
+Like on iTunes, this feature shows the different album covers in a scroll-through photo library
+Scrolling is achieved by swiping a finger across the screen
+Alternatively, headset controls can be used to pause, play, skip, and repeat tracks
+On the iPhone 3GS, the volume can be changed with the included Apple Earphones, and the Voice Control feature can be used to identify a track, play songs in a playlist or by a specific artist, or create a  Genius playlist 
+The iPhone supports  gapless playback 
+ Like the  fifth-generation iPods  introduced in 2005, the iPhone can play  digital video , allowing users to watch TV shows and movies in  widescreen 
+Double-tapping switches between widescreen and  fullscreen  video playback.The iPhone allows users to purchase and download songs from the iTunes Store directly to their iPhone
+The feature originally required a Wi-Fi network, but now since 2012 can use the cellular data network if one is not available
+The iPhone includes software that allows the user to upload, view, and email photos taken with the  camera 
+The user zooms in and out of photos by sliding two fingers further apart or closer together, much like Safari
+The Camera application also lets users view the camera roll, the pictures that have been taken with the iPhone's camera
+Those pictures are also available in the Photos application, along with any transferred from  iPhoto  or  Aperture  on a Mac, or  Photoshop  on a Windows  PC .Internet connectivityInternet access is available when the iPhone is connected to a local area  Wi-Fi  or a wide area  GSM  or  EDGE  network, both second-generation ( 2G ) wireless data standards
+The iPhone 3G introduced support for third-generation  UMTS  and  HSDPA  3.6,  only the iPhone 4S supports  HSUPA  networks (14.4Mbit/s), and only the iPhone 3GS and iPhone 4 support HSDPA 7.2.AT&T introduced  3G  in July 2004, but as late as 2007,  Steve Jobs  stated that it was still not widespread enough in the US, and the chipsets not energy efficient enough, to be included in the iPhone.By default, the iPhone will ask to join newly discovered  Wi-Fi  networks and prompt for the password when required
+Alternatively, it can join closed Wi-Fi networks manually
+ The iPhone will automatically choose the strongest network, connecting to Wi-Fi instead of EDGE when it is available
+ Similarly, the iPhone 3G, 3GS and 4 prefer  3G  to  2G , and Wi-Fi to either.Wi-Fi,  Bluetooth , and 3G (on the iPhone 3G onwards) can all be deactivated individually
+ Airplane mode  disables all wireless connections at once, overriding other preferences
+However, once in Airplane mode, one can explicitly enable Wi-Fi and/or Bluetooth modes to join and continue to operate over one or both of those networks while the cellular network transceivers remain off.The iPhone 3GS has a maximum download rate of 7.2 Mbit/s 
+ Furthermore, email attachments as well as apps and media from Apple's various stores must be smaller than 20MB to be downloaded over a cellular network
+ Larger files, often email attachments or podcasts, must be downloaded over Wi-Fi (which has no file size limits)
+If Wi-Fi is unavailable, one  workaround  is to open the files directly in  Safari 
+Safari  is the iPhone's native  web browser , and it displays pages similar to its Mac and  Windows  counterparts
+Web pages may be viewed in portrait or landscape mode and the device supports automatic zooming by pinching together or spreading apart fingertips on the screen, or by double-tapping text or images
+  It is worth mentioning that  Safari  doesn't allow file downloads except for predefined extensions
+The iPhone does not support  Flash 
+Consequently, the  UK's Advertising Standards Authority  adjudicated that an advertisement claiming the iPhone could access "all parts of the internet" should be withdrawn in its current form, on grounds of  false advertising 
+In a rare public letter in April 2010, Apple CEO  Steve Jobs  outlined the reasoning behind the absence of Flash on the iPhone (and  iPad )
+The iPhone supports  SVG ,  CSS ,  HTML   Canvas , and  Bonjour .Google Chrome was introduced to the iOS on June 26, 2012
+In a review by  Chitika  on July 18, 2012, they announced that the Google Chrome web browser has 1.5% of the iOS web browser market since its release
+The maps application can access  Google Maps  in map,  satellite , or hybrid form
+It can also generate directions between two locations, while providing optional real-time traffic information
+During the iPhone's announcement, Jobs demonstrated this feature by searching for nearby  Starbucks  locations and then placing a  prank call  to one with a single tap
+Support for walking directions, public transit, and  street view  was added in the version 2.2 software update, but no voice-guided navigation
+The iPhone 3GS and iPhone 4 can orient the map with its digital compass
+Apple also developed a separate application to view YouTube videos on the iPhone, which streams videos after encoding them using the  H.264  codec
+Simple weather and  stock quote s applications also tap into the Internet.iPhone users can and do access the Internet frequently, and in a variety of places
+According to  Google , in 2008, the iPhone generated 50 times more search requests than any other mobile handset
+According to  Deutsche Telekom  CEO  Ren Obermann , "The average  Internet usage  for an iPhone customer is more than 100 megabyte s
+This is 30 times the use for our average contract-based consumer customers."  Nielsen  found that 98% of iPhone users use data services, and 88% use the internet
+In China, the iPhone 3G and iPhone 3GS were built and distributed without Wi-Fi.With the introduction of the Verizon iPhone in January 2011, the issue of using internet while on the phone has been brought to the public's attention
+Under the two US carriers, internet and phone could be used simultaneously on AT&T networks, whereas Verizon networks only support the use of each separately.Text inputFor text input, the iPhone implements a  virtual keyboard  on the touchscreen
+It has automatic  spell checking  and correction,  predictive word  capabilities, and a dynamic dictionary that learns new words
+The keyboard can predict what word the user is typing and complete it, and correct for the accidental pressing of keys near the presumed desired key.The keys are somewhat larger and spaced farther apart when in  landscape mode , which is supported by only a limited number of applications
+Touching a section of text for a brief time brings up a  magnifying glass , allowing users to place the  cursor  in the middle of existing text
+The virtual keyboard can accommodate 21 languages, including character recognition for Chinese.Alternate characters with accents can be typed from the keyboard by pressing the letter for 2 seconds and selecting the alternate character from the popup
+The 3.0 update brought support for  cut, copy, or pasting  text, as well as landscape keyboards in more applications
+  On iPhone 4S, Siri allows dictation.Email and text messagesThe iPhone also features an email program that supports  HTML email , which enables the user to embed photos in an email message
+ PDF ,  Word ,  Excel , and  PowerPoint  attachments to mail messages can be viewed on the phone
+Apple's  MobileMe  platform offers  push email , which emulates the functionality of the popular  BlackBerry  email solution, for an annual subscription
+ Yahoo!  offers a free push-email service for the iPhone
+ IMAP  (although not  Push-IMAP ) and  POP3  mail standards are also supported, including  Microsoft Exchange   and  Kerio Connect 
+In the first versions of the iPhone firmware, this was accomplished by opening up IMAP on the Exchange server
+Apple has also licensed  Microsoft ActiveSync  and now supports the platform (including push email) with the release of iPhone 2.0 firmware
+  The iPhone will sync email account settings over from Apple's own  Mail  application,  Microsoft Outlook , and  Microsoft Entourage , or it can be manually configured on the device itself
+With the correct settings, the email program can access almost any IMAP or POP3 account
+Text messages are presented chronologically in a mailbox format similar to Mail, which places all text from recipients together with replies
+Text messages are displayed in speech bubbles (similar to  iChat ) under each recipient's name
+The iPhone has built-in support for email message forwarding, drafts, and direct internal camera-to-email picture sending
+Support for multi-recipient SMS was added in the 1.1.3 software update
+Support for  MMS  was added in the 3.0 update, but not for the original 1st generation iPhone and not in the US until September 25, 2009.Third-party applicationsSee also:  iOS SDK  and  App Store  At  WWDC 2007  on June 11, 2007, Apple announced that the iPhone would support  third-party  web applications using  Ajax  that share the look and feel of the iPhone interface
+On October 17, 2007, Steve Jobs, in an open letter posted to Apple's "Hot News"  weblog , announced that a  software development kit  (SDK) would be made available to third-party developers in February 2008
+The iPhone SDK was officially announced and released on March 6, 2008, at the Apple Town Hall facility
+It is a free download, with an Apple registration, that allows developers to develop native applications for the iPhone and iPod Touch, then test them in an "iPhone simulator"
+However, loading an application onto a real device is only possible after paying an  Apple Developer Connection  membership fee
+Developers are free to set any price for their applications to be distributed through the  App Store , of which they will receive a 70% share
+Developers can also opt to release the application for free and will not pay any costs to release or distribute the application beyond the membership fee
+The App Store was launched with the release of iOS 2.0, on July 11, 2008
+The update was free for iPhone users; owners of older iPod Touches were required to pay US$10 for it
+Once a developer has submitted an application to the App Store, Apple holds firm control over its distribution
+Apple can halt the distribution of applications it deems inappropriate, for example,  I Am Rich , a US$1000 program that simply demonstrated the wealth of its user
+Apple has been criticized for banning third-party applications that enable a functionality that Apple does not want the iPhone to have: In 2008, Apple rejected  Podcaster , which allowed iPhone users to download podcasts directly to the iPhone claiming it duplicated the functionality of iTunes
+ Apple has since released a software update that grants this capability.NetShare, another rejected app, would have enabled users to  tether  their iPhone to a laptop or desktop, using its cellular network to load data for the computer
+Many carriers of the iPhone later globally allowed tethering before Apple officially supported it with the upgrade to the iOS 3.0, with  AT&T Mobility  being a relative latecomer in the United States
+ In most cases, the carrier charges extra for tethering an iPhone.Before the SDK was released, third-parties were permitted to design "Web Apps" that would run through Safari
+ Unsigned native applications are also available for "jailbroken" phones
+ The ability to install native applications onto the iPhone outside of the App Store is not supported by Apple, the stated reason being that such native applications could be broken by any software update, but Apple has stated it will not design software updates specifically to break native applications other than those that perform SIM unlocking
+, Apple has passed 60billion app downloads
+ AccessibilityThe iPhone can enlarge text to make it more  accessible  for vision-impaired users, and can accommodate hearing-impaired users with  closed captioning  and external  TTY  devices
+The iPhone 3GS also features white on black mode,  VoiceOver  (a  screen reader ), and zooming for impaired vision, and mono audio for  limited hearing  in one ear
+ Apple regularly publishes Voluntary Product Accessibility Templates which explicitly state compliance with the US regulation " Section 508 "
+VulnerabilityIn 2007, 2010, and 2011, developers released a series of tools called  JailbreakMe  that used security vulnerabilities in Mobile Safari rendering in order to  jailbreak  the device (which allows users to install any compatible software on the device instead of only App Store apps)
+  These exploits were each soon fixed by iOS updates from Apple
+Theoretically these flaws could have also been used for malicious purposes
+In July 2011, Apple released iOS 4.3.5 (4.2.10 for CDMA iPhone) to fix a security vulnerability with certificate validation.The American and British intelligence agencies, the  National Security Agency  (NSA) and the  Government Communications Headquarters  (GCHQ) respectively, have access to the user data in iPhones
+They are able to read almost all information on the phone, including SMS, location, emails, and notes.Following the release of the iPhone 5s model, a group of German hackers, under the title the "Chaos Computer Club", announced on September 21, 2013 that they had bypassed Apple's new Touch ID fingerprint sensor by using "easy everyday means." The group explained that the security system had been defeated by photographing a fingerprint from a glass surface and using that captured image as verification
+The spokesman for the group stated: "We hope that this finally puts to rest the illusions people have about fingerprint biometrics
+It is plain stupid to use something that you can't change and that you leave everywhere every day as a security token." Model comparisonIntellectual propertyApple has filed more than 200  patent application s related to the technology behind the iPhone
+ LG Electronics claimed the design of the iPhone was copied from the  LG Prada 
+Woo-Young Kwak, head of LG Mobile Handset R&D Center, said at a press conference: "we consider that Apple copied Prada phone after the design was unveiled when it was presented in the iF Design Award and won the prize in September 2006."On September 3, 1993,  Infogear  filed for the US trademark "I PHONE" and on March 20, 1996, applied for the trademark "IPhone"
+"I Phone" was registered in March 1998,  and "IPhone" was registered in 1999
+ Since then, the I PHONE mark had been abandoned
+ Infogear trademarks cover "communications terminals comprising computer hardware and software providing integrated telephone, data communications and personal computer functions" (1993 filing),  and "computer hardware and software for providing integrated telephone communication with computerized global information networks" (1996 filing)
+Infogear released a telephone with an integrated web browser under the name  iPhone  in 1998
+In 2000, Infogear won an infringement claim against the owners of the iphones.com domain name
+In June 2000,  Cisco Systems  acquired Infogear, including the iPhone trademark
+On December 18, 2006, they released a range of re-branded  Voice over IP  (VoIP) sets under the name iPhone
+In October 2002, Apple applied for the "iPhone" trademark in the United Kingdom, Australia, Singapore, and the European Union
+A Canadian application followed in October 2004, and a New Zealand application in September 2006
+As of October 2006, only the Singapore and Australian applications had been granted
+In September 2006, a company called Ocean Telecom Services applied for an "iPhone" trademark in the United States, United Kingdom and Hong Kong, following a filing in Trinidad and Tobago
+As the Ocean Telecom trademark applications use exactly the same wording as the New Zealand application of Apple, it is assumed that Ocean Telecom is applying on behalf of Apple
+ The Canadian application was opposed in August 2005, by a Canadian company called  Comwave  who themselves applied for the trademark three months later
+Comwave has been selling VoIP devices called iPhone since 2004
+Shortly after Steve Jobs' January 9, 2007, announcement that Apple would be selling a product called iPhone in June 2007, Cisco issued a statement that it had been negotiating trademark licensing with Apple and expected Apple to agree to the final documents that had been submitted the night before
+On January 10, 2007, Cisco announced it had filed a lawsuit against Apple over the infringement of the trademark iPhone, seeking an injunction in federal court to prohibit Apple from using the name
+More recently, Cisco claimed that the trademark lawsuit was a "minor skirmish" that was not about money, but about interoperability
+On February 2, 2007, Apple and Cisco announced that they had agreed to temporarily suspend litigation while they held settlement talks,  and subsequently announced on February 20, 2007, that they had reached an agreement
+Both companies will be allowed to use the "iPhone" name  in exchange for "exploring interoperability" between their security, consumer, and business communications products
+The iPhone has also inspired several leading high-tech clones,  driving both the popularity of Apple and consumer willingness to upgrade iPhones quickly.On October 22, 2009,  Nokia  filed a lawsuit against Apple for infringement of its GSM, UMTS and WLAN patents
+Nokia alleges that Apple has been violating ten of the patents of Nokia since the iPhone initial release.In December 2010,  Reuters  reported that some iPhone and  iPad  users were suing  Apple Inc
+ because some applications were passing user information to third-party advertisers without permission
+Some makers of the applications such as Textplus4,  Paper Toss ,  The Weather Channel ,  Dictionary.com , Talking Tom Cat and Pumpkin Maker have also been named as co-defendants in the lawsuit.In August 2012, Apple won a smartphone patent lawsuit in the USA against  Samsung , the world's largest maker of smartphones
+In March 2013, an Apple patent for a wraparound display was revealed
+Secret trackingSince April 20, 2011, a  hidden   unencrypted  file on the iPhone and other iOS devices has been widely discussed in the media
+ It was alleged that the file, labeled "consolidated.db", constantly stores the iPhone user's movement by approximating geographic locations calculated by triangulating nearby cell phone towers, a technology proven to be inaccurate at times
+The file was released with the June 2010 update of Apple  iOS4  and may contain almost one year's worth of data
+Previous versions of iOS stored similar information in a file called "h-cells.plist"
+ F-Secure  discovered that the data is transmitted to Apple twice a day and postulate that Apple is using the information to construct their global location database similar to the ones constructed by Google and  Skyhook  through  wardriving 
+ Nevertheless, unlike the  Google  "Latitude" application, which performs a similar task on  Android  phones, the file is not dependent upon signing a specific  EULA  or even the user's knowledge, but it is stated in the 15,200 word-long  terms and conditions  of the iPhone that "Apple and [their] partners and licensees may collect, use, and share precise location data, including the real-time geographic location of [the user's] Apple computer or device".The file is also automatically copied onto the user's computer once synchronized with the iPhone
+An  open source  application named "iPhoneTracker", which turns the data stored in the file into a visual map, was made available to the public in April 2011
+While the file cannot be erased without  jailbreaking  the phone, it can be encrypted.Apple gave an official response on their web site on April 27, 2011, after questions were submitted by users, the  Associated Press  and others
+Apple clarified that the data is a small portion of their crowd-sourced location database cache of Wi-Fi hotspots and cell towers which is downloaded from Apple into the iPhone for making location services faster than with only GPS, therefore the data does not represent the locations of the iPhone
+The volume of data retained was an error
+Apple issued an update for  iOS  (version  4.3.3 , or  4.2.8  for the CDMA iPhone 4) which reduced the size of the cache, stopped it being backed up to iTunes, and erased it entirely whenever location services were turned off
+ The upload to Apple can also be selectively disabled from "System services", "Cell Network Search."Intelligence agency accessIt was revealed as apart of the  2013 mass surveillance disclosures  that the American and British intelligence agencies, the  National Security Agency  (NSA) and the  Government Communications Headquarters  (GCHQ) respectively, have access to the user data in iPhones, Blackberries, and Android phones
+They are able to read almost all smartphone information, including SMS, location, emails, and notes.RestrictionsApple tightly controls certain aspects of the iPhone
+According to  Jonathan Zittrain , the emergence of  closed devices  like the iPhone have made computing more  proprietary  than early versions of  Microsoft Windows 
+The  hacker  community has found many workarounds, most of which are disallowed by Apple and make it difficult or impossible to obtain warranty service
+ " Jailbreaking " allows users to install apps not available on the App Store or modify basic functionality
+SIM unlocking allows the iPhone to be used on a different carrier's network
+ However, in the United States, Apple cannot void an iPhone's warranty unless it can show that a problem or component failure is linked to the installation or placement of after-market item such as unauthorized applications, because of the  Federal Trade Commission 's  Magnuson-Moss Warranty Act of 1975  The iPhone also has an area and settings where parents can set restriction or parental controls  on apps that can be downloaded or used within the iPhone
+The restrictions area will require a password.ActivationThe iPhone normally prevents access to its media player and web features unless it has also been activated as a phone with an authorized carrier
+On July 3, 2007,  Jon Lech Johansen  reported on his blog that he had successfully bypassed this requirement and unlocked the iPhone's other features with a combination of custom software and modification of the iTunes binary
+He published the software and offsets for others to use
+Unlike the 1st generation iPhone, the iPhone 3G must be activated in the store in most countries
+ This makes the iPhone 3G more difficult, but not impossible, to hack
+The need for in-store activation, as well as the huge number of first-generation iPhone and  iPod Touch  users upgrading to iPhone OS 2.0, caused a worldwide  overload  of Apple's  servers  on July 11, 2008, the day on which both the iPhone 3G and iPhone OS 2.0 updates as well as  MobileMe  were released
+After the update, devices were required to connect to Apple's servers to authenticate the update, causing many devices to be temporarily unusable
+Users on the  O2  network in the United Kingdom, however, can buy the phone online and activate it via iTunes as with the previous model
+ Even where not required, vendors usually offer activation for the buyer's convenience
+In the US, Apple has begun to offer free shipping on both the iPhone 3G and the iPhone 3GS (when available), reversing the in-store activation requirement
+ Best Buy  and  Walmart  will also sell the iPhone.Unapproved third-party software and jailbreakingThe iPhone's operating system is designed to only run software that has an Apple-approved  cryptographic signature 
+This restriction can be overcome by "jailbreaking" the phone,  which involves replacing the iPhone's  firmware  with a slightly modified version that does not enforce the signature check
+Doing so may be a circumvention of Apple's  technical protection measures 
+ Apple, in a statement to the  United States Copyright Office  in response to  Electronic Frontier Foundation  (EFF) lobbying for a DMCA exception for this kind of hacking, claimed that jailbreaking the iPhone would be  copyright infringement  due to the necessary modification of system software
+However in 2010 Jailbreaking was declared officially legal in the United States by the  DMCA 
+ Jailbroken iPhones may be susceptible to computer viruses, but few such incidents have been reported
+ iOS and  Android  2.3.3 'Gingerbread' may be set up to dual boot on a jailbroken iPhone with the help of  OpeniBoot  or iDroid
+ SIM unlockingUnited StatesMost iPhones were and are still sold with a  SIM lock , which restricts the use of the phone to one particular carrier, a common practice with subsidized  GSM  phones
+Unlike most GSM phones however, the phone cannot be officially unlocked by entering a code
+ The locked/unlocked state is maintained on Apple's servers per  IMEI  and is set when the iPhone is activated.While the iPhone was initially  sold in the US only on the AT&T network  with a SIM lock in place, various hackers have found methods to " unlock " the phone from a specific network
+ Although AT&T, Sprint and Verizon are the only authorized iPhone carriers in the United States, unlocked iPhones can be used with other carriers after unlocking
+For example, an unlocked iPhone may be used on the T-Mobile network in the US but, while an unlocked iPhone is compatible with T-Mobile's voice network, it may not be able to make use of 3G functionality (i.e., no mobile web or e-mail, etc.)
+  More than a quarter of the original 1st generation iPhones sold in the US were not registered with AT&T
+Apple speculates that they were likely shipped overseas and unlocked, a lucrative market before the iPhone 3G's worldwide release
+ On March 26, 2009, AT&T in the United States began selling the iPhone without a contract, though still SIM-locked to their network
+ The up-front purchase price of such iPhone units is often twice as expensive as those bundled with contracts
+ Outside of the United States, policies differ, especially in US territories and insular areas like  Guam , where  GTA Teleguam  is the exclusive carrier for the iPhone, since none of the three US carriers (AT&T, Sprint, and Verizon) has a presence in the area
+Beginning April 8, 2012, AT&T began offering a factory SIM unlock option (which Apple calls a "whitelisting", allowing it to be used on any carrier the phone supports) for iPhone owners
+It has been reported that the Verizon iPhone 5 comes factory unlocked
+After such discovery, Verizon announced that the Verizon iPhone 5 would remain unlocked, due to the regulations that the FCC had placed on the 700MHz C-Block spectrum, which is utilized by Verizon
+United KingdomIn the United Kingdom, networks  O2 ,  EE ,  3 ,  Vodafone , as well as  MVNO   Tesco Mobile  sell the device under subsidised contracts, or for use on pay as you go
+They are locked to the network initially, though are usually able to be unlocked either after a certain period of contract length has passed, or for a small fee
+However, all current versions of iPhone are available for purchase SIM-free from the Apple Store or Apple's Online Store, consequently, they are unlocked for use on any GSM network too.Australia and other countriesFive major carriers in Australia, ( Three ,  Optus ,  Telstra ,  Virgin Mobile , and  Vodafone ), offer legitimate unlocking, now at no cost for all iPhone devices, both current and prior models
+The iPhone 3GS and the iPhone 4 can also be bought unlocked from Apple Retail Stores or the Apple Online Store
+Internationally, policies vary, but many carriers sell the iPhone unlocked for full retail price.Fights over brand nameMexicoIn 2003,  four years before the iPhone was officially introduced, the trademark iFone was registered in  Mexico  by a communications systems and services company, iFone
+ Apple tried to gain control over its brandname, but a Mexican court refused the request
+The case began in 2009, when the Mexican firm sued Apple.BrazilAlso in  Brazil  the brand IPHONE has been registered in 2000 by the company then called Gradiente Eletrnica S.A., now IGB Eletrnica S.A
+According to the filing, Gradiente foresaw the revolution in the convergence of voice and data over the Internet at the time.In Brazil, the final battle over the brandname was finished in 2008
+In December 18, 2012, IGB launched its own line of Android smartphones under the tradename to which it has exclusive rights in the local market
+See also  Newton (platform) , an early personal digital assistant and the first tablet platform developed by Apple.ReferencesExternal links   official site Technical specifications (all models) at  Apple Inc
+ Video of Jobs launching the iPhone at Macworld 2007 on  YouTube  Digging for rare earths: The mines where iPhones are born at  CNET News , September 26, 2012                                                                                                                                                                                                                                                                                             iOS (previously iPhone OS) is a  mobile operating system  developed and distributed by  Apple Inc
+ Originally unveiled in 2007 for the  iPhone , it has been extended to support other Apple devices such as the  iPod Touch  (September 2007),  iPad  (January 2010),  iPad Mini  (November 2012) and second-generation  Apple TV  (September 2010)
+Unlike  Microsoft 's  Windows Phone  and  Google 's  Android , Apple does not license iOS for installation on non-Apple hardware
+, Apple's  App Store  contained more than 900,000 iOS applications, 375,000 of which were optimised for iPad
+ These apps have collectively been downloaded more than 50billion times
+It had a 21% share of the  smartphone  mobile operating system units shipped in the fourth quarter of 2012, behind only Google's Android
+In June 2012, it accounted for 65% of mobile web data consumption (including use on both the iPod Touch and the iPad)
+  At the half of 2012, there were 410 million devices activated
+ According to the special media event held by Apple on September 12, 2012, 400million devices had been sold by June 2012.The  user interface  of iOS is based on the concept of  direct manipulation , using  multi-touch gestures 
+Interface control elements consist of sliders, switches, and buttons
+Interaction with the OS includes gestures such as swipe, tap, pinch, and reverse pinch, all of which have specific definitions within the context of the iOS operating system and its multi-touch interface
+Internal  accelerometer s are used by some applications to respond to shaking the device (one common result is the undo command) or rotating it in  three dimensions  (one common result is switching from portrait to landscape mode).iOS is derived from  OS X , with which it shares the  Darwin  foundation and various application frameworks
+iOS is Apple's mobile version of the  OS X  operating system used on Apple computers.Major versions of iOS are released annually
+The current release,  iOS 7 , was released on September 18, 2013.In iOS, there are four  abstraction layer s: the Core OS layer, the  Core Services  layer, the Media layer, and the  Cocoa Touch  layer
+The current version of the operating system (iOS 7.0.2), dedicates 11.5 GB of the device's flash memory for the system partition, using roughly 800 MB of that partition (varying by model) for iOS itself.iOS currently runs on the iPhone, iPad, iPad Mini, iPod Touch and Apple TV.HistoryThe operating system was unveiled with the  iPhone  at the  Macworld Conference & Expo , January 9, 2007, and released in June of that year
+ At first, Apple marketing literature did not specify a separate name for the operating system, stating simply that the "iPhone runs OS X"
+Initially, third-party applications were not supported
+ Steve Jobs ' reasoning was that developers could build web applications that "would behave like native apps on the iPhone"
+  On October 17, 2007, Apple announced that a native  Software Development Kit (SDK)  was under development and that they planned to put it "in developers' hands in February"
+ On March 6, 2008, Apple released the first  beta , along with a new name for the operating system: "iPhone OS".Apple had released the iPod Touch, which had most of the non-phone capabilities of the iPhone
+Apple also sold more than one million iPhones during the 2007 holiday season
+ On January 27, 2010, Apple announced the  iPad , featuring a larger screen than the iPhone and iPod Touch, and designed for web browsing, media consumption, and reading  iBooks 
+In June 2010, Apple rebranded iPhone OS as "iOS"
+The trademark "IOS" had been used by  Cisco  for over a decade for its operating system,  IOS , used on its routers
+To avoid any potential lawsuit, Apple licensed the "IOS" trademark from Cisco.By late 2011, iOS accounted for 60% of the market share for smartphones and tablet computers
+By the end of 2012, iOS accounted for 21% of the smartphone OS marketSoftware updatesApple provides major updates to the iOS operating system approximately once a year over  iTunes  and also, since iOS version 5.0,  over the air 
+The latest version of iOS is iOS 7, which is available for the iPhone 4, iPhone 4S, iPhone 5, iPhone 5C, iPhone 5S, iPad 2, the third-generation iPad, the fourth-generation iPad, the  iPad Mini  and the fifth-generation iPod Touch
+Before iOS 4's release in 2010, iPod Touch users had to pay for system software updates
+Apple claimed that this was the case, because the iPod Touch was not a 'subscription device' like the iPhone (i.e
+it was a one-off purchase)
+ Apple said it had 'found a way' to deliver software updates for free to iPod Touch users at WWDC 2010, when iOS 4 was unveiled
+FeaturesHome ScreenThe home screen (rendered by and also known as " SpringBoard ") displays  application  icons and a dock at the bottom of the screen where users can pin their most frequently used apps
+The home screen appears whenever the user unlocks the device or presses the "Home" button (a physical button on the device) whilst in another app
+The screen's background can be customized with other customizations available through  jailbreaking 
+The screen has a status bar across the top to display data, such as time, battery level, and signal strength
+The rest of the screen is devoted to the current application
+When a passcode is set and a user switches on the device, the passcode must be entered at the Lock Screen before access to the Home Screen is granted.Since iOS version 3.0, a  Spotlight  Search function has been available on the leftmost page of the home screen page allowing users to search through media (music, videos, podcasts, etc.), applications, e-mails, contacts, messages, reminders, calendar events, and similar files
+Third-party app files were not, and still are not, searchable using the Spotlight feature
+In iOS 7, this feature can be accessed by pulling down anywhere on the screen
+In iOS 3.2 or later and with a supported device, the user can set a picture as the background of the home screen
+This feature is only available on third-generation devices or newer   iPhone 3GS  or newer,  iPod Touch  3rd gen
+or newer, and all iPad models.Researchers found that users organize icons on their homescreens based on usage-frequency and relatedness of the applications, as well as for reasons of usability and aesthetics
+FoldersWith iOS 4 came the introduction of a simple folder system
+When applications are in "jiggle mode", any two (with the exception of  Newsstand  in  iOS 5  and later, which acts like a folder) can be dragged on top of each other to create a folder, and from then on, more apps can be added to the folder using the same procedure, up to 12 on iPhone 4S and earlier and iPod Touch, 16 on iPhone 5, and 20 on iPad
+A title for the folder is automatically selected by the category of applications inside, but the name can also be edited by the user
+When apps inside folders receive badges, the numbers shown by the badges is added up and shown on the folder
+Folders can't be put into other folders, but through exploiting iOS glitches, Newsstand and other folders can be forced to be placed into a folder
+This is handy for some users who find the Newsstand functionality useless
+However, upon attempting to open a folder/the Newsstand within a folder, the SpringBoard will crash
+Notification CenterBefore iOS 5, notifications were delivered in blue dialog box
+This system of notification management was greatly criticised
+In the iOS 5 update, the notifications feature was completely redesigned
+Notifications collate in a window which can be dragged down from the top of the screen
+ If a user touches a received notification, the application that sent the notification will be opened
+Notifications are now delivered in small banners that appear over the status bar
+The old method of delivering notifications is still available from Notification Settings if the user wishes to enable it for some or all applications.When an app sends a notification whilst closed, a red badge will appear on its icon
+This badge tells the user, at a glance, how many notifications that app has sent
+Opening the app clears the badge.Included applicationsThe iOS home screen contains these default "apps"
+Some of these applications are hidden by default and accessed by the user through the Settings app or another methodfor instance,  Nike+iPod  is activated through the Settings app
+Many of these apps, such as Safari, the App Store, and YouTube, can also be disabled in the Restrictions section of the Settings app.On the iPhone and iPod Touch, utilities, such as voice memos, contacts, calculator, and compass are in one folder called "Utilities" in iOS 4 and above
+  Many of the included applications are designed to share data (e.g., a phone number can be selected from an email and saved as a contact or dialed for a phone call)." iMessage " is available on all iOS devices running iOS 5 or above
+iMessage is effectively a version of the Messages app that sends free text or multimedia messages to other iOS devices (similar to  BlackBerry Messenger )
+Panoramic photography  is available only on iPhone 4S and later models, and the fifth generation iPod touch
+ The bottom row of applications, called the dock, is used to delineate the iPhone's main purposes: originally Phone, Mail, Safari, iPod
+Starting with iOS 5, the iPod app was split into two apps, Music and Videos, as it always has been on the iPod Touch, and the Music app replaced the iPod app in the dock
+In iOS 7, the iPhone gains a dedicated FaceTime app (previously integrated into the Phone app), as it had been on the iPod Touch and iPad since iOS 4.Starting January 2008, the iPod Touch retains the same applications that are present by default on the iPhone, with the exception of the Phone and Compass (and also previously, Messages before iOS 5 and Camera before the fourth-generation iPod Touch) apps
+The original dock layout was Music, Videos, Photos, and iTunes
+In iPhone OS 3, the layout was changed to Music, Videos, Safari, and App Store
+For the fourth-generation iPod Touch, it includes  FaceTime  and Camera, and the dock layout had changed to Music, Mail, Safari, Videos, with the release of iOS 4
+With the release of the new fifth-generation iPod Touch and iOS 6, the dock layout was changed to Messages, Mail, Safari, Music, similar to the iPhone.The iPad and iPad Mini come with the same applications as the iPod Touch, excluding Stocks, Weather, Calculator, and the Nike + iPod app (and also previously, Clock before iOS 6)
+Additionally, starting with the iPad 2, they have the unique Photo Booth app
+Most of the default applications, such as Safari and Mail, are completely rewritten to take advantage of the iPad's and iPad Mini's larger displays
+The original dock layout was Safari, Mail, Photos, iPod
+Separate music and video apps are provided, as on the iPod Touch, although (as on the iPhone) the music app was named "iPod"
+In iOS 5, it was changed to "Music" and the dock layout became Safari, Mail, Photos, Music
+In iOS 6, Videos replaced Photos in the dock
+In iOS 7, the default dock layout was changed to match that of the iPod Touch.MultitaskingBefore iOS 4, multitasking was limited to a selection of the applications Apple included on the device
+Users could, however "jailbreak" their device in order to unofficially  multitask
+Starting with iOS 4, on third-generation and newer iOS devices, multitasking is supported through seven background  APIs :  Background audio  application continues to run in the background as long as it is playing audio or video content Voice over IP  application is suspended when a phone call is not in progress  Background location  application is notified of location changes   Push notifications  Local notifications  application schedules local notifications to be delivered at a predetermined time  Task completion  application asks the system for extra time to complete a given task  Fast app switching  application does not execute any code and may be removed from memory at any time In iOS 5, three new background APIs were introduced: Newsstand  application can download content in the background to be ready for the user  External Accessory  application communicates with an external accessory and shares data at regular intervals  Bluetooth Accessory  application communicates with a bluetooth accessory and shares data at regular intervals In iOS 7, Apple introduced a new multitasking feature, providing all apps with the ability to perform background updates
+ This feature prefers to update the user's most frequently used apps and prefers to use WiFi networks over a cellular network, without markedly reducing the device's battery life.Switching applicationsIn iOS 4.0 to iOS 6.x, double-clicking the home button activates the application switcher
+A scrollable dock-like interface appears from the bottom, moving the contents of the screen up
+Choosing an icon switches to an application
+To the far left are icons which function as music controls, a rotation lock, and on iOS 4.2 and above, a volume controller
+Holding the icons briefly makes them "jiggle" (similarly to the homescreen) and allows the user to force quit the applications by simply tapping the red minus circle that appears at the corner of the app's icon.With the introduction of iOS 7, double clicking the home button also activates the application switcher
+However, unlike previous versions it will now display screenshots of open applications on top of the icon and horizontal scrolling allows for browsing through previous apps, and it is possible to close applications by dragging them up, similar than  WebOS  handled multiple cards.SiriSiri is an intelligent personal assistant and knowledge navigator which works as an application on supported devices
+The service, directed by the user's spoken commands, can do a variety of different tasks, such as call or text someone, open an app, search the web, lookup sports information, find directions or locations, and answer general knowledge questions (e.g
+"How many cups are in a gallon?")
+Siri was updated in iOS 7 with a new interface, faster answers, Wikipedia, Twitter, and Bing support and the voice was changed to sound more human
+Siri is currently only available on the  iPhone 4S  and later iPhones, the fifth-generation  iPod Touch , the  iPad Mini , and the  third-generation  and later iPads.Game CenterGame Center is an  online   multiplayer  "social gaming network" released by Apple
+ It allows users to "invite friends to play a game, start a multiplayer game through matchmaking, track their  achievements , and compare their high scores on a  leaderboard ." iOS 5 and above adds support for profile photos
+Game Center was announced during an iOS 4 preview event hosted by Apple on April 8, 2010
+A preview was released to registered Apple developers in August
+ There is no support for the  iPhone 3G ,  original iPhone  and the  first-generation iPod Touch  (the latter two devices did not have Game Center because they did not get iOS 4)
+However, Game Center is unofficially available on the iPhone 3G via a hack.DevelopmentThe applications must be written and compiled specifically for iOS and the  64-bit  ARM architecture or previous  32-bit  one
+The  Safari   web browser  supports  web application s as with other web browsers
+Authorized third-party  native applications  are available for devices running iOS 2.0 and later through Apple's  App Store 
+A Q3 2013 study found that mobile developers use iOS as a primary platform more than Android (59% vs
+49%), despite Android being a more popular platform overall
+SDKOn October 17, 2007, in an open letter posted to Apple's "Hot News" weblog, Steve Jobs announced that a  software development kit  (SDK) would be made available to third-party developers in February 2008
+ The SDK was released on March 6, 2008, and allows developers to make applications for the iPhone and iPod Touch, as well as test them in an "iPhone simulator"
+However, loading an application onto the devices is only possible after paying an iPhone Developer Program fee.The fees to join the respective developer programs for iOS and OS X were each set at $99.00 per year
+ As of July 20, 2011, Apple released  Xcode  on its Mac App Store free to download for all  OS X Lion  users, instead of as a standalone download
+Users can create and develop iOS and OS X applications using a free copy of Xcode; however, they cannot test their applications on a physical iOS device, or publish them to the App store, without first paying the $99.00 iPhone Developer or Mac Developer Program fee
+Since the release of  Xcode 3.1 , Xcode is the development environment for the iOS SDK
+iOS applications, like many of the higher-level frameworks and applications that are part of iOS and OS X, are written in  Objective-C 
+Developers are able to set any price above a set minimum for their applications to be distributed through the  App Store , keeping 70% for the developer, and leaving 30% for Apple
+Alternatively, they may opt to release the application for free and need not pay any costs to release or distribute the application except for the membership fee
+JailbreakingSince its initial release, iOS has been subject to a variety of different hacks centered around adding functionality not allowed by Apple
+Prior to the 2008 debut of the native  iOS App Store , the primary motive for jailbreaking was to install third-party native applications, which was not allowed by Apple at the time
+ Apple claimed that it will not release iOS software updates designed specifically to break these tools (other than applications that perform  SIM unlocking ); however, with each subsequent iOS update, previously un-patched jailbreak exploits are usually patched
+Since the arrival of Apple's native iOS App Store, andalong with itthird-party applications, the general motives for jailbreaking have changed
+ People jailbreak for many different reasons, including gaining filesystem access, installing custom device themes, and modifying the device  SpringBoard 
+On some devices, jailbreaking also makes it possible to install alternative operating systems, such as Android and the Linux kernel
+Primarily, users jailbreak their devices because of the limitations of iOS
+It should be noted that depending on the method used, the effects of jailbreaking may be permanent, or can be restored to the original state
+ In 2010, the  Electronic Frontier Foundation  (EFF) successfully convinced the U.S
+Copyright Office to allow an exemption to the general prohibition on circumvention of copyright protection systems under the  Digital Millennium Copyright Act  (DMCA)
+ The exemption allows jailbreaking of iPhones for the sole purpose of allowing legally obtained applications to be added to the iPhone
+  The exemption does not affect the contractual relations between Apple and an iPhone owner, for example, jailbreaking voiding the iPhone warranty; however, it is solely based on Apple's discretion on whether they will fix jailbroken devices in the event that they need to be repaired
+At the same time, the Copyright Office exempted unlocking an iPhone from DMCA's anticircumvention prohibitions
+  Unlocking an iPhone allows the iPhone to be used with any wireless carrier using the same GSM or CDMA technology for which the particular phone model was designed to operate
+ UnlockingInitially most wireless carriers did not allow iPhone owners to unlock an iPhone for use with other carriers
+AT&T Mobility allows iPhone owners who have satisfied the requirements of their contract to unlock their iPhone
+ Instructions to unlock the device are available from Apple,  but it is ultimately the sole discretion of the carrier to authorize the device to be unlocked
+ This allows the use of a carrier sourced iPhone on other networks
+However, because T-Mobile primarily uses a different band than AT&T for its 3G data signals, the iPhone will only work at 3G speeds on the T-Mobile 1900MHz network
+  There are programs to break these restrictions, but are not supported by Apple and most often not a permanent unlock, known as soft-unlock
+Digital rights managementThe closed and proprietary nature of iOS has garnered criticism, particularly by  digital rights  advocates such as the  Electronic Frontier Foundation , computer engineer and activist  Brewster Kahle , Internet-law specialist  Jonathan Zittrain , and the  Free Software Foundation  who protested the iPad's introductory event and have targeted the iPad with their " Defective by Design " campaign
+    Competitor  Microsoft , via a PR spokesman, criticized Apple's control over its platform
+At issue are restrictions imposed by the design of iOS, namely  digital rights management  (DRM) intended to lock purchased media to Apple's platform, the development model (requiring a yearly subscription to distribute apps developed for the iOS), the centralized approval process for apps, as well as Apple's general control and lockdown of the platform itself
+Particularly at issue is the ability for Apple to remotely disable or delete apps at will.Some in the tech community have expressed concern that the locked-down iOS represents a growing trend in Apple's approach to computing, particularly Apple's shift away from machines that hobbyists can "tinker with" and note the potential for such restrictions to stifle software innovation
+  Former  Facebook  developer  Joe Hewitt  protested against Apple's control over its hardware as a "horrible precedent" but praised iOS's  sandboxing  of apps
+ KernelThe iOS kernel is based on  Darwin OS 
+The original iPhone OS (1.0) up to iPhone OS 3.1.3 used Darwin 9.0.0d1
+iOS 4 was based on Darwin 10.0.0
+iOS 5 was based on Darwin 11.0.0
+iOS 6 was based on Darwin 13.0.0
+iOS 7 is based on Darwin 14.0.0 (Darwin Kernel Version 14.0.0:Mon Jun 17 00:44:15 PDT 2013;root:xnu-2423.1.28~7/RELEASE_ARM_S5l8940X)
+)DevicesSee also  iOS version history   List of iOS devices    Comparison of mobile operating systems ReferencesFurther reading    External links   official site iOS Dev Center  on the  Apple Developer Connection  website iOS Reference Library  on the Apple Developer Connection website                                                                                                              Yahoo! Inc
+is an American  multinational  Internet corporation headquartered in  Sunnyvale, California 
+It is globally known for its  Web portal ,  search engine   Yahoo Search , and related services, including  Yahoo Directory ,  Yahoo Mail ,  Yahoo News ,  Yahoo Finance ,  Yahoo Groups ,  Yahoo Answers ,  advertising ,  online mapping ,  video sharing ,  fantasy sports  and its  social media  website
+It is one of the most popular sites in the United States
+ According to news sources, roughly 700 million people visit Yahoo websites every month
+  Yahoo itself claims it attracts "more than half a billion consumers every month in more than 30 languages." Yahoo was founded by  Jerry Yang  and  David Filo  in January 1994 and was incorporated on March 1, 1995
+On July 16, 2012, former  Google  executive  Marissa Mayer  was named as Yahoo CEO and President, effective July 17, 2012
+According to  comScore , Yahoo during July 2013 surpassed  Google  on the number of United States visitors to its Web sites for the first time since May 2011, set at 196 million United States visitors, having increased by 21 percent in a year
+History and growthIn January 1994, Yang and Filo were  electrical engineering  graduate students at  Stanford University  when they created a website named "Jerry's guide to the World Wide Web"
+ David and Jerry's Guide to the World Wide Web was a directory of other websites, organized in a hierarchy, as opposed to a searchable index of pages
+In March 1994, "David and Jerry's Guide to the World Wide Web" was renamed "Yahoo!"   The "yahoo.com" domain was created on January 18, 1995
+The word "yahoo" is an  acronym  for "Yet Another Hierarchical Officious Oracle"
+ The term "hierarchical" described how the Yahoo database was arranged in layers of subcategories
+The term "oracle" was intended to mean "source of truth and wisdom", and the term "officious", rather than being related to the word's normal meaning, described the many office workers who would use the Yahoo database while surfing from work
+ However, Filo and Yang insist they mainly selected the name because they liked the slang definition of a "yahoo" (used by college students in David Filo's native Louisiana in the late 1980s and early 1990s to refer to an unsophisticated, rural Southerner): "rude, unsophisticated, uncouth." Filo's college girlfriend often referred to Filo as a "yahoo." This meaning derives from the name of a race of  fictional beings from Gulliver's Travels .Yahoo grew rapidly throughout the 1990s
+Like many  search engine s and  Web directories , Yahoo added a  web portal 
+It also made many high-profile acquisitions
+Its stock price skyrocketed during the  dot-com bubble , Yahoo stocks closing at an all-time high of $118.75 a share on January 3, 2000
+However, after the dot-com bubble  burst , it reached a post-bubble low of $8.11 on September 26, 2001.In 2000, Yahoo began using  Google  for search
+Over the next four years, it developed its own search technologies, which it began using in 2004
+In response to Google's Gmail, Yahoo began to offer unlimited email storage in 2007
+The company struggled through 2008, with several large layoffs.In February 2008,  Microsoft Corporation  made an unsolicited bid to acquire Yahoo for  US$ 44.6 billion
+Yahoo formally rejected the bid, claiming that it "substantially undervalues" the company and was not in the interest of its shareholders
+Three years later, Yahoo had a market capitalization of US$22.24 billion
+  Carol Bartz  replaced Yang as CEO in January 2009
+ In September 2011, she was removed from her position at Yahoo by the company's chairman Roy Bostock, and CFO  Tim Morse  was named as Interim CEO of the company.In early 2012, after the appointment of  Scott Thompson  as CEO, rumors began to spread about looming layoffs
+Several key executives, such as Chief Product Officer  Blake Irving  left
+ On April 4, 2012, Yahoo announced a cut of 2,000 jobs or about 14 percent of its 14,100 workers
+The cut is expected to save around US$375 million annually after the layoffs are completed at end of 2012
+ In an email sent to employees in April 2012, Thompson reiterated his view that customers should come first at Yahoo He also completely reorganized the company.On May 13, 2012, Yahoo issued a press release stating that Thompson was no longer with the company, and would immediately be replaced on an interim basis by  Ross Levinsohn , recently appointed head of Yahoo's new Media group.On July 16, 2012,  Marissa Mayer  was appointed President and CEO of Yahoo, effective the following day.On May 19, 2013 the Yahoo board approved a US$1.1 billion purchase of blogging site  Tumblr , and the company's CEO and founder  David Karp  will remain a large shareholder
+The announcement reportedly signifies a changing trend in the technology industry, as large corporations like Yahoo, Facebook, and Google acquire start-up Internet companies that generate low amounts of revenue as a way in which to connect with sizeable, fast-growing online communities
+The Wall Street Journal stated that the purchase of Tumblr would satisfy the company's need for "a thriving social-networking and communications hub."   On May 20, the company announced the acquisition of Tumblr officially
+ The company also announced plans to open a San Francisco office in July 2013
+On August 2, 2013, Yahoo Inc
+announced the acquisition of social Web browser concern RockMelt
+With the acquisition, the RockMelt team, including the concern's CEO Eric Vishria and CTO Tim Howes, will be the part of Yahoo team
+As a result, all the RockMelt applications and existing Web services were terminated on August 31
+Data collated by comScore during July 2013 revealed that more people in the U.S
+visited Yahoo Web sites during the month in comparison to Google Web sites; the occasion was the first time that Yahoo outperformed Google since 2011
+The data did not incorporate visit statistics for the Yahoo-owned Tumblr site or mobile phone usage
+ Products and servicesYahoo operates a portal that provides the latest news, entertainment, and sports information
+The portal also gives users access to other Yahoo services like Yahoo Mail, Yahoo Maps,  Yahoo Finance ,  Yahoo Groups  and  Yahoo Messenger .Storing personal information and tracking usageWorking with comScore,  The New York Times  found that Yahoo was able to collect far more data about users than its competitors from its Web sites and advertising network
+By one measure, on average Yahoo had the potential in December 2007 to build a profile of 2,500 records per month about each of its visitors
+ Yahoo retains search requests for a period of 13 months
+However, in response to European regulators, Yahoo obfuscates the IP address of users after three months by deleting its last eight bits
+On March 29, 2012, Yahoo announced that it would introduce a " Do Not Track " feature that summer, allowing users to opt out of Web-visit tracking and customized advertisements
+According to a 2008 article in  Computerworld , Yahoo has a 2-petabyte, specially built  data warehouse  that it uses to analyze the behavior of its half-billion Web visitors per month, processing 24 billion daily events
+In contrast, the United States  Internal Revenue Service  (IRS) database of all United States taxpayers weighs in at only 150 terabytes
+CommunicationYahoo provides Internet communication services such as  Yahoo Messenger  and  Yahoo Mail 
+As of May 2007, its e-mail service would offer unlimited storage
+Yahoo provided social networking services and user-generated content, including products such as  My Web ,  Yahoo Personals ,  Yahoo 360 ,  Delicious ,  Flickr , and  Yahoo Buzz 
+Yahoo closed  Yahoo Buzz ,  MyBlogLog , and numerous other products on April 21, 2011
+ Yahoo Photos  was closed on September 20, 2007, in favor of Flickr
+On October 16, 2007, Yahoo announced that it would discontinue Yahoo 360, including  bug  repairs; the company explained that in 2008 it would instead establish a "universal profile" similar to the  Yahoo Mash  experimental system
+ContentYahoo partners with numerous content providers in products such as  Yahoo Sports ,  Yahoo Finance ,  Yahoo Music ,  Yahoo Movies ,  Yahoo Weather ,  Yahoo News ,  Yahoo Answers  and  Yahoo Games  to provide news and related content
+Yahoo provides a personalization service,  My Yahoo , which enables users to combine their favorite Yahoo features, content feeds and information onto a single page.On March 31, 2008, Yahoo launched Shine, a site tailored for women seeking online information and advice between the ages of 25 and 54
+Co-branded Internet servicesYahoo developed partnerships with broadband providers such as  AT&T Inc
+ (via  BellSouth  & SBC),  Verizon Communications ,  Rogers Communications  and  British Telecom , offering a range of free and premium Yahoo content and services to subscribers.Mobile Services Yahoo Mobile  offers services for email, instant messaging, and  mobile blogging , as well as information services, searches and alerts
+Services for the camera phone include entertainment and ring tones.Yahoo introduced its Internet search system, called OneSearch, for mobile phones on March 20, 2007
+The results include news headlines, images from Flickr, business listings, local weather and links to other sites
+Instead of showing only, for example, popular movies or some critical reviews, OneSearch lists local theaters that at the moment are playing the movie, along with user ratings and news headlines regarding the movie
+A zip code or city name is required for OneSearch to start delivering local search results.The results of a Web search are listed on a single page and are prioritized into categories
+As of 2012 Yahoo used  Novarra 's mobile content transcoding service for OneSearch
+On October 8, 2010, Yahoo announced plans to bring video chat to mobile phones via Yahoo Messenger
+CommerceYahoo offers shopping services such as  Yahoo Shopping , Yahoo Autos,  Yahoo Real Estate  and  Yahoo Travel , which enables users to gather relevant information and make commercial transactions and purchases online
+ Yahoo Auctions  were discontinued in 2007 except for Asia
+Small businessYahoo provides business services such as  Yahoo DomainKeys ,  Yahoo Web Hosting , Yahoo Merchant Solutions, Yahoo Business Email and Yahoo Store to small business owners and professionals allowing them to build their own online stores using Yahoo's tools.Advertising Yahoo Search Marketing  provides services such as Sponsored Search, Local Advertising and Product/Travel/Directory Submit that let different businesses advertise their products and services on the Yahoo network.Following the closure of a "beta" version on April 30, 2010, the  Yahoo Publisher Network  was relaunched as an advertising tool that allows online publishers to monetize their websites through the use of site-relevant advertisements
+Yahoo launched its new Internet advertisement sales system on February 5, 2007, called  Panama 
+It allows  advertisers  to bid for search terms to trigger their ads on search results pages
+The system considers bids, ad quality,  clickthrough rate s and other factors in ranking ads
+Through Panama, Yahoo aims to provide more relevant search results to users, a better overall experience, and to increase monetization
+On April 7, 2008, Yahoo announced  APT from Yahoo , which was originally called AMP from Yahoo,  an online advertising management platform
+ The platform simplifies advertising sales by unifying buyer and seller markets
+The service was launched in September 2008
+In September 2011, Yahoo formed an ad selling strategic partnership with 2 of its top competitors,  AOL  and Microsoft
+ But by 2013 this was found to be underperforming in market share and revenue, as Microsoft simply skimmed off four percent of the search market from Yahoo, without growing their combined share
+Yahoo NextYahoo Next is an incubation ground for future Yahoo technologies currently undergoing testing
+It contains  forums  for Yahoo users to give feedback to assist in the development of these future Yahoo technologies
+Yahoo BOSSYahoo Search BOSS is a service that allows developers to build search applications based on Yahoo's search technology
+ Early Partners in the program include  Hakia ,  Me.dium ,  Delver ,  Daylife  and  Yebol 
+In early 2011, the program switched to a paid model using a cost-per-query model from $0.40 to $0.75 CPM (cost per 1000 BOSS queries)
+The price, as Yahoo explained, depends on whether the query is of web, image, news or other information
+Yahoo MemeYahoo Meme is a beta social service, similar to the popular social networking sites  Twitter  and  Jaiku .Y!ConnectY!Connect enables individuals to leave comments in online publication boards by using their Yahoo ID, instead of having to register with individual publications
+ The Wall Street Journal  reported that Yahoo plans to mimic this strategy used by rival Facebook Inc
+to help drive traffic to its site
+Yahoo AccessibilityYahoo has invested resources to increase and improve access to the Internet for the disabled community through the Yahoo Accessibility Lab
+Yahoo AxisYahoo Axis is a desktop web browser extension and mobile browser for iOS devices created and developed by Yahoo
+The browser made its public debut on May 23, 2012
+ A copy of the private key used to sign official Yahoo! browser extensions for Google Chrome was accidentally leaked in the first public release of the Chrome extension
+Yahoo SearchMonkeyYahoo SearchMonkey (often misspelled Search Monkey) was a Yahoo service which allowed developers and site owners to use structured data to make Yahoo Search results more useful and visually appealing, and drive more relevant traffic to their sites
+The service was shut down in October 2010 along with other Yahoo services as part of the Microsoft and Yahoo search deal
+The name SearchMonkey is an homage to Greasemonkey
+Officially the product name has no space and two capital letters.Yahoo SearchMonkey was selected as one of the top 10 Semantic Web Products of 2008
+Defunct services Geocities  was a popular web hosting service founded in 1995 and was one of the first services to offer web pages to the public
+At one point it was the third-most-browsed site on the  World Wide Web 
+ Yahoo purchased GeoCities in 1999 and ten years later the web host was closed, deleting some seven million web pages
+ A great deal of information was lost but many of those sites and pages were mirrored at the  Internet Archive ,  OOcities.com, and other such databases
+ Yahoo Go , a Java-based phone application with access to most of Yahoo services, was closed on January 12, 2010
+ Yahoo 360  was a blogging/social networking beta service launched in March 2005 by Yahoo and closed on July 13, 2009
+ Yahoo Mash beta was another social service closed after one year of operation prior to leaving beta status
+Yahoo Photos was shut down on September 20, 2007, in favor of integration with Flickr
+ Yahoo Tech  was a website that provided product information and setup advice to users
+Yahoo launched the website in May 2006
+On March 11, 2010, Yahoo closed down the service and redirected users to Yahoo's technology news section
+ Other discontinued services include Farechase, My Web, Audio Search, Pets, Live, Kickstart, Briefcase, and Yahoo for Teachers
+Hotjobs was acquired by and merged with  Monster.com 
+Yahoo Koprol  was an  Indonesia n geo-tagging website that allowed users to share information about locations without the use of a  GPS  device
+Koprol was acquired by Yahoo a year following its inception and, in 2011, 1.5 million people were utilizing the website, with users also based in Singapore, the Philippines and Vietnam
+However, eighty percent of users were Indonesian
+ Yahoo officially discontinued Koprol on August 28, 2012, because it did "not meaningfully drive revenue or engagement"
+Yahoo Mail Classic was announced as to be shut down in April 2013
+Yahoo made a notice that, starting in June 2013, Mail Classic and other old versions of Yahoo Mail will be shut down
+All users of Mail Classic are expected to switch to the new Yahoo Mail, use IMAP, or switch to another email service
+ In addition, April 2013 brought the closure of  Upcoming , Yahoo Deals, Yahoo SMS Alerts,  Yahoo Kids , Yahoo Mail and Messenger feature phone (J2ME)
+In early July 2013 Yahoo announced the scheduled closure of the task management service  Astrid 
+Yahoo had acquired the company in May 2013 and was to discontinue the service on August 5, 2013
+The team at Astrid has supplied its customers with a data export tool and recommended former competitors such as Wunderlist and Sandglaz
+ Twitter slide leak on upcoming changes to YahooOn December 15, 2010, one day after Yahoo announced layoffs of 4% of its workers across their portfolio, MyBlogLog founder Eric Marcoullier posted a slide from a Yahoo employee on Twitter
+The slide was visible during an employee-only strategy webcast indicating changes in Yahoo's offerings
+The following services were in a column under "Sunset": Yahoo Picks,  AltaVista , MyM,  AlltheWeb , Yahoo Bookmarks,  Yahoo Buzz ,  del.icio.us , and  MyBlogLog 
+Under the "Merge" column were:  Upcoming ,  FoxyTunes , Yahoo Events, Yahoo People Search, Sideline, and FireEagle.11 other properties were listed that Yahoo was interested in developing into feature sites within the portal to take the place of the "Sunset" and "Merge" vacancies, including the prior feature services (before the new Yahoo Mail was launched), were Yahoo Address Book, Calendar, and Notepad
+ Despite Notepad being listed as a feature service instead of sunset or merge in 2010, Yahoo has since taken steps to de-emphasize Notepad
+For example, in January 2013, Notepad was no longer linked within the new Yahoo mail service, although it continued to be linked in the older Classic version
+Also, starting in mid- to late January 2013, Notepad was no longer searchable.The blog on the del.icio.us website released a post by Chris Yeh after the slide was leaked in which Yeh stated that "Sunset" doesn't necessarily mean that Yahoo is closing down the site
+Yeh further explained that other possibilitiesincluding del.icio.us leaving Yahoo (through sale or spinoff)were still being considered: "We can only imagine how upsetting the news coverage over the past 24 hours has been to many of you
+Speaking for our team, we were very disappointed by the way that this appeared in the press."  On April 27, 2011, Yahoo's sale of del.icio.us to Avos was announced
+Yahoo Buzz was closed down on April 21, 2011 without an official announcement from Yahoo
+ MyBlogLog was then discontinued by Yahoo on May 24, 2011
+Revenue modelAbout 88% of revenues for the fiscal year 2009 came from marketing services
+The largest segment of it was from search advertising, where advertisers bid for search terms to display their ads on the search results; on average Yahoo makes 2.5 cents to 3 cents from each search.Other forms of advertising that bring in revenue for Yahoo include display and contextual advertising, with the latter providing the basis for the "Keystone" initiative (developed by Yahoo to develop an "ad selection technology for direct and online marketers to place non-guaranteed advertisements on publisher sites.") PrivacyIn September 2013  The Indian Express  reported that Yahoo! received 29 thousand requests for information about users from governments in the first six months of 2013
+Over 12 thousands of the requests came from the  United States 
+In October 2013,  The Washington Post  reported that the U.S
+ National Security Agency  intercepted communications between Yahoo's data centers, as part of a program named  MUSCULAR 
+ CriticismIn 2000, Yahoo was  taken to court in France  by parties seeking to prevent French citizens from purchasing memorabilia relating to the  Nazi Party 
+In March 2004, Yahoo launched a paid inclusion program whereby commercial websites were guaranteed listings on the Yahoo search engine
+ Yahoo discontinued the program at the end of 2009
+ Yahoo was criticized for providing ads via the Yahoo ad network to companies who display them through  spyware  and  adware 
+ Yahoo, as well as other search engines, cooperated with the Chinese government in  censoring  search results
+In April 2005, dissident  Shi Tao  was sentenced to 10 years in prison for "providing state secrets to foreign entities"  as a result of being identified by  IP address  by Yahoo  The extent of Yahoo's foreknowledge of Shi's fate was disputed by the company's General Counsel and human rights organizations
+ Human rights groups also accuse Yahoo of aiding authorities in the arrest of  dissident s  Li Zhi  and  Jiang Lijun .In September 2003, dissident  Wang Xiaoning  was convicted of charges of "incitement to subvert state power" and was sentenced to ten years in prison
+Yahoo Hong Kong  connected Wang's group to a specific Yahoo e-mail address
+ Both Xiaoning's wife and the World Organization for Human Rights  sued Yahoo under human rights laws on behalf of Wang and Shi
+As a result of media scrutiny relating to  Internet child predator s and a lack of significant ad revenues, Yahoo's "user created" chatrooms were closed down in June 2005
+ On May 25, 2006, Yahoo's image search was criticized for bringing up sexually explicit images even when  SafeSearch  was active
+ Yahoo is a 40% owner of  Alibaba Group , which was a subject of controversy for allowing the sale of shark-derived products
+The company banned the sale of  shark fin  products on all its e-commerce platforms effective January 1, 2009
+On November 30, 2009, Yahoo was criticized by the  Electronic Frontier Foundation  for sending a  DMCA  notice to whistle-blower website "Cryptome" for publicly posting details, prices, and procedures  on obtaining private information pertaining to Yahoo's subscribers
+After some concerns over censorship of private emails regarding a website affiliated with  Occupy Wall Street  protests were raised, Yahoo responded with an apology and explained it as an accident.Financial dataAdvertising revenueAs of January 2010, Yahoo held the world's largest market share in online  display advertising 
+JP Morgan put the company's United States market share for display ads at 17%, well ahead of No
+2 Microsoft at 11% and AOL at 7%
+ In 2011, Yahoo lost the top spot to Facebook
+ ExecutivesBoard of Directors (current)       John D Hayes  (2012)  Executive Vice President,  American Express Company  and former President of  Lowe & Partners   Sue James   Retired Partner, Ernst & Young LLP  Max Levchin  (2012) Chairman and CEO, HVF, LLC  Peter Liguori  (2012) Former Chief Operating Officer,  Discovery Communications , Inc
+and former Chairman and President of Entertainment,  Fox Broadcasting  Company  Marissa Mayer  (2012)  CEO Yahoo Inc
+ Thomas J McInerney  (2012)  Former  Executive Vice President  and Chief Financial Officer,  IAC/InterActiveCorp   Maynard Webb  (2012)  Chairman, Yahoo Inc., founder,  Webb Investment Network  and chairman and former CEO of  LiveOps Board of Directors (past)  Alfred Amoroso  (2012)  Former Chairman, Yahoo Inc
+ Roy Bostock  past Chairman, Yahoo Inc
+ Patti Hart   President and Chief Executive Officer,  International Game Technology   Vyomesh Joshi   Executive Vice President, Imaging and Printing Group, Hewlett-Packard Company  David Kenny  (2011)  Arthur Kern   Private Investor  Daniel S
+Loeb  (2012-2013)  Brad D
+Smith   President and Chief Executive Officer, Intuit Inc
+ Scott Thompson  Yahoo CEO  Gary L
+Wilson  (2001) Private Investor General Partner,  Manhattan Pacific Partners ,  was the chairman of the board of  Northwest Airlines , chief financial officer of  Walt Disney Company , and chief financial officer of  Marriott Corporation 
+   Harry J
+Wilson  (2012-2013)  Michael Wolf  (2012- 2013)Chief Executive Officers  Marissa Mayer  (2012)  Ross Levinsohn  Interim (2012)  Scott Thompson  (2012)  Tim Morse  Interim (20112012)  Carol Bartz  (20092011)  Jerry Yang  (20072009)  Terry Semel  (20012007)  Timothy Koogle  (19952001)Yahoo InternationalYahoo offers a multi-lingual interface
+The site is available in over 20 languages
+The official directory for all of the Yahoo International sites is world.yahoo.com
+The company's international sites are wholly owned by Yahoo, with the exception of its Japan and China sites.Yahoo holds a 34.75% minority stake in  Yahoo Japan , while  SoftBank  holds 35.45%,   YahooXtra  in New Zealand, which  Yahoo!7  have 51% of and 49% belongs to  Telecom New Zealand , and Yahoo!7 in Australia, which is a 5050 agreement between Yahoo and the  Seven Network 
+Historically, Yahoo entered into joint venture agreements with SoftBank for the major European sites (UK, France and Germany) and well as South Korea and Japan
+In November 2005, Yahoo purchased the minority interests that SoftBank owned in Europe and Korea.Yahoo used to  hold a 40% stake in  Alibaba , which manages a web portal in China using the Yahoo brand name
+Yahoo in the USA does not have direct control over Alibaba, which operates as a completely independent company
+On September 18, 2012, following years of negotiations, Yahoo agreed to sell a 20% stake back to Alibaba for $7.6 billion
+On March 8, 2011 Yahoo launched its  Romania  local service after years of delay due to the  financial crisis 
+    Yahoo officially entered the  MENA  region when it acquired  Maktoob , a pan-regional,  Arabic-language  hosting and social services online portal, on August 25, 2009
+ Since the service is pan-regional, Yahoo officially became Yahoo Maktoob in the region.On December 31, 2012, Yahoo Korea shut down all its services and left the country, with its previous domain saying in Korean, "Starting from December 31, 2012, Yahoo! Korea has ended
+You can go to the original Yahoo! for more Yahoo's information."On September 2, 2013, Yahoo China shut down and is being redirected to taobao.com
+ Logos and themesThe first logo appeared when the company was founded in 1995it was red with three icons on each side
+ The logo used on the Yahoo home page formerly consisted of the color red with a black outline and shadow; however, in May 2009, together with a theme redesign, the logo was changed to purple without an outline or shadow
+This change also applied to several international Yahoo home pages
+In some countries, most notably  Yahoo!7  (of  Australia ), the logo remains red
+ On occasion the logo is abbreviated: "Y!"
+On August 7, 2013, at around midnight  EDT , Yahoo announced that the final version of the new logo would be revealed on September 5, 2013 at 4:00 a.m
+ UTC 
+In the period leading up to the unveiling of the new logo, the "30 Days of Change" campaign was introduced, whereby a variation of the logo was published every day for the 30 days following the announcement
+  The new logo was eventually launched with an accompanying video that showed its digital construction, and Mayer published a personalized description of the design process on her Tumblr page
+ Mayer explains:   So, one weekend this summer, I rolled up my sleeves and dove into the trenches with our logo design team ..
+We spent the majority of Saturday and Sunday designing the logo from start to finish, and we had a ton of fun weighing every minute detail
+We knew we wanted a logo that reflected Yahoo - whimsical, yet sophisticated
+Modern and fresh, with a nod to our history
+Having a human touch, personal
+Proud
+ On September 19, 2013, Yahoo! launched a new version of the "My Yahoo" personalized homepage
+The redesign allows users to tailor a homepage with widgets that access features such as email accounts, calendars, Flickr and other Yahoo content, and Internet content
+Users can also select "theme packs" that represent artists such as Polly Apfelbaum and Alec Monopoly, and bands such as  Empire of the Sun 
+ Mayer then explained at a conference in late September 2013 that the logo change was the result of feedback from both external parties and employees.See also  List of search engines   List of web analytics software   Yahoo Guesthouse   Yahoo litigation   Yahoo Messenger Protocol  References External links  Yahoo! transparency reports                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

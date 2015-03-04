@@ -1,4 +1,11 @@
-<?php
+<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+        <script src="frontend.js"></script>
+    </head>
+    <body>
+    <?php
 //      Get search term from html page
     $query1= strip_tags(stripslashes(($_POST['query1'])));
     $query2= strip_tags(stripslashes(($_POST['query2'])));
@@ -27,25 +34,35 @@ if($_REQUEST['btn_submit']=="Plain Text")
         do{
             $ranval = array_rand($array3);
             $val = $array3[$ranval];
-            echo "randid: $val&nbsp";
+            echo "&nbsp $val &nbsp";
             $status= getStatus($val);
         } while($status != 200);
         echo "<br/>";       
         $page = getPlainText($val);
         print($page);    
         echo'<div style="background-color:#000;"><br/></div>';
-        echo'<div style="background-color:#000;"<br/></div>';
+        echo'<div style="background-color:#000;"><br/></div>';
     }
 }
-else if ($_REQUEST['btn_submit']=="Json Object")
+else if ($_REQUEST['btn_submit']=="Explain")
 {
     echo "<br/>";
-print "You pressed Button 2";
 //      find the intersection of the arrays (this lets you see which links are in common)
 //      this array is filled with page id's
+
+    $dot = ". ";
+    $post = array();
+
+    for($i=0; $i<strlen($query1); $i++) {
+        $query1 = str_replace("_", " ",$query1);
+        }
+
+    for($i=0; $i<strlen($query2); $i++) {
+        $query2 = str_replace("_", " ",$query2);
+        }
+
     $array3 = array_intersect($array1, $array2);
-    
-//    do{
+    do{
         do{
             $ranval = array_rand($array3);
             $val = $array3[$ranval];
@@ -54,24 +71,127 @@ print "You pressed Button 2";
         } while($status != 200);   
         echo "<br/>";
         $page = getPlainText($val);
+    
+        $post[0]= stripos($page,$query1);
+        $post[1]= stripos($page,$query2);
+        $post[2]= strripos($page,$query1);
+        $post[3]= strripos($page,$query2);
+
+    } while(($post[0]===false) || ($post[1]===false));
+        
+    $val1= max($post);
+    $val2= min($post);
+
+    $firsthalf=substr($page,0,$val2);
+    $secondhalf=substr($page,$val1);
 
 
-        for($i=0; $i<strlen($query1); $i++) {
-        $query1 = str_replace("_", " ",$query1);
+    $firstperiod=strripos($firsthalf,$dot);
+    $secondperiod=stripos($secondhalf,$dot);
+    $diff= $secondperiod+$val1-$firstperiod +1;
+    $firstperiod++;
+
+    $substring= substr($page, $firstperiod, $diff);
+
+    print($substring);
+    echo "<br/> <br/>";
+    $page1 = getPlainText($id1);
+    
+
+    /*do {
+        $occurence= stripos($page1, $query2);
+        echo "$occurence <br/>";
+        $occ1=strripos($page1, $query2);
+        $occ2=stripos($page1, $query2);
+        $occurence += $occurence;
+        $page1= substr($page1, $occurence);
+    } while ($occ1!==$occ2);*/
+    echo "<br/> <br/>";
+    //print($page1);
+    echo "<br/> <br/>";
+    $cursorposition=0;
+    $occurence= stripos($page1,$query2);
+    $occ1=strripos($page1, $query2);
+    
+    do{
+        echo "$occurence<br/><br/>";
+        
+        $firsthalf= substr($page1,$cursorposition,$occurence);
+        $secondhalf= substr($page1,$occurence);
+
+        if ($cursorposition===0){
+            $firstperiod=0;
         }
-
-        for($i=0; $i<strlen($query2); $i++) {
-        $query2 = str_replace("_", " ",$query2);
+        $firstperiod=strripos($firsthalf,$dot);
+        
+        if ($cursorposition !==0){
+            $firstperiod++;    
         }
+        
+        $secondperiod= stripos($secondhalf,$dot);
+        $secondperiod= $secondperiod+ $occurence;
+        $diff= $secondperiod-$firstperiod;
 
-        echo "$query1 &nbsp $query2 <br/>";
-        $post1= strpos($page,$query1);
-        $post2= strpos($page,$query2);
-//    } while (($post1 === false) && ($post2 === false));
+        $cursorposition+= $secondperiod;
+        $occurence= stripos($page1, $query2, $cursorposition);
+        $explanation1 = substr($page1, $firstperiod, $diff);
+        
+        print($explanation1);
+        echo "<br/> <br/>";
+    } while ($occurence !== $occ1); 
+    
 
-    echo "$post1 &nbsp $post2 <br/>";
+    /* $initpost= 0;
+    do{ //if there's a dot in our soruce text do
+        $position = stripos ($page, $dot); //find first dot position
+        $offset = $position + 1; //prepare offset
+        $position2 = stripos ($page, $dot, $offset); //find second dot using offset
+        $twolines = substr($page, $initpost, $position2); //put two first sentences under $first_two
+        $initpost= $offset++;
+        $cond1= stripos($twolines,$query1);
+        $cond2= stripos($twolines,$query2);
+        echo $twolines . '.'."<br/"; //add a dot
+    }while(($cond1===false)&&($cond2===false)); */
 
-    print($page);
+}
+else if ($_REQUEST['btn_submit']=="Test"){
+    $dot=". ";
+    $query2= "Gold";
+    $page1 = getPlainText($id1);
+    echo "<br/> <br/>";
+    echo $page1;
+
+    $cursorposition=0;
+    $occurence= stripos($page1,$query2);
+    $occ1=strripos($page1, $query2);
+    
+    for($i=0;$i<3;$i++){
+    echo "$occurence<br/><br/>";
+
+    $firsthalf= substr($page1,$cursorposition,$occurence);
+    $secondhalf= substr($page1,$occurence);
+
+    if ($cursorposition===0){
+        $firstperiod=0;
+    }
+    $firstperiod=strripos($firsthalf,$dot);
+
+    if ($cursorposition !==0){
+        $firstperiod++;    
+    }
+
+    $secondperiod= stripos($secondhalf,$dot);
+    $secondperiod= $secondperiod+ $occurence;
+    $diff= $secondperiod-$firstperiod;
+
+    $cursorposition+= $secondperiod;
+    $occurence= stripos($page1, $query2, $cursorposition);
+    $explanation1 = substr($page1, $firstperiod, $diff);
+
+    print($explanation1);
+    echo "<br/> <br/>";
+
+    }
 }
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////
@@ -216,16 +336,7 @@ print "You pressed Button 2";
     }
 ///////////////////////////////////////////////////////////////////////////////////////////////////////
 ///////////////////////////////////////////////////////////////////////////////////////////////////////    
-//      Returns apart of the JSON Object in this case the offset
-//      gets certain parts of the json object that is the wiki page
-
-/*      foreach($json_response->internalLinks as $p){
-            $pt= $p->surface;*/
-    function getPageInfo($id) {
-        $json_response = get_page($id);
-            $pt = $json_response->internalLinks[2]->offset;
-            return $pt;
-    }
+//      Returns apart of the JSON Object to find the status of the JSON Object
 
     function getStatus($id, &$success = null, &$error = null) {
         $request = 'http://websail-fe.cs.northwestern.edu:8080/wikifier/resource/article/'.$id;
@@ -238,8 +349,9 @@ print "You pressed Button 2";
         $success = true;
         return $response->status;
     }
-    
+    ?> 
+    </body>
+</html>
 
-?> 
 
 
